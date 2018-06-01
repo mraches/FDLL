@@ -106,6 +106,7 @@
     <Content Include="bootstrap.min.css" />
     <Content Include="font-awesome.css" />
     <Content Include="font-awesome.min.css" />
+    <Content Include="img\header-bg.jpg" />
     <Content Include="img\quito-cultura_-logov3 %281%29.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
