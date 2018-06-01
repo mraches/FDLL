@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Festival de La Luz 2018</title>
+    <title>Fiesta de La Luz 2018</title>
 
     <!-- Bootstrap core CSS -->
       <link href="bootstrap.min.css" rel="stylesheet" />
@@ -65,7 +65,7 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-lead-in">Bienvenidos a Quito</div>
-          <div class="intro-heading text-uppercase">Festival de La Luz 2018</div>
+          <div class="intro-heading text-uppercase">Fiesta de La Luz 2018</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Dime más</a>
         </div>
       </div>
