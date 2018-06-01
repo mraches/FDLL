@@ -66,7 +66,7 @@
         <div class="intro-text">
           <div class="intro-lead-in">Bienvenidos a Quito</div>
           <div class="intro-heading text-uppercase">Fiesta de La Luz 2018</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Dime más</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Dime más</a>
         </div>
       </div>
     </header>
@@ -697,3 +697,21 @@
         </div>
       </div>
     </div>
+
+   <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/agency.min.js"></script>
+
+  </body>
+
+</html>
