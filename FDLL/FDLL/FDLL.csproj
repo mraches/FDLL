@@ -126,6 +126,18 @@
     <Content Include="scripts\jquery-3.3.1.slim.min.js" />
     <Content Include="scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="scripts\jquery-3.3.1.min.map" />
+    <Content Include="scss\agency.scss" />
+    <Content Include="scss\_contact.scss" />
+    <Content Include="scss\_footer.scss" />
+    <Content Include="scss\_global.scss" />
+    <Content Include="scss\_masthead.scss" />
+    <Content Include="scss\_mixins.scss" />
+    <Content Include="scss\_navbar.scss" />
+    <Content Include="scss\_portfolio.scss" />
+    <Content Include="scss\_services.scss" />
+    <Content Include="scss\_team.scss" />
+    <Content Include="scss\_timeline.scss" />
+    <Content Include="scss\_variables.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

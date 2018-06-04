@@ -25,6 +25,7 @@
     <!-- Custom styles for this template -->
       <link href="agency.min.css" rel="stylesheet" />
       <link href="agency.css" rel="stylesheet" />
+      
 
   </head>
 
@@ -88,7 +89,13 @@
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Seguridad</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p class="text-muted">Efectivos de la Policía Metropolitana, de la Policía Nacional y del Cuerpo de 
+                Bomberos estarán distribuidos en todo el sector. En caso de tener cualquier emergencia, son las personas 
+                a las que debe dirigirse. Si se necesita atención urgente, llame inmediatamente al 911. Cuidar los unos 
+                de los otros es la mejor fórmula de seguridad para esta gran reunión. El consumo de alcohol en el
+                 espacio público está prohibido y es sancionado con multas. En todo el perímetro se ubicarán baterías 
+                sanitarias. Es un compromiso de todos y todas mantener al Centro Histórico impecablemente limpio durante 
+                la Fiesta de la Luz.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -96,7 +103,13 @@
               <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Movilidad</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p class="text-muted"> Durante los cinco días de la Fiesta de la Luz, el tránsito vehicular por el 
+                Centro Histórico se verá restringido. Toda la zona de intervención del programa estará peatonalizada 
+                desde las 18h00, una hora antes del inicio de los espectáculos. No se habilitarán ni se permitirá el
+                 acceso a los parqueaderos ubicados dentro del perímetro. Se recomienda encarecidamente emplear 
+                transporte público. El sistema Trolebús llegará hasta la parada El Ejido en sentido norte-sur y hasta 
+                el andén de La Recoleta en dirección sur-norte. Los corredores viales de la Ecovía y de la Metrovía 
+                funcionarán normalmente. Las tarifas del transporte público son las habituales.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -104,7 +117,10 @@
               <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Consejos</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p class="text-muted">Se establecerá un sentido
+                 de flujo unidireccional para las calles, es muy importante respetarlo. No se recomienda venir con 
+                menores de 5 años. Es recomendable qu los niños, adolescentes y personas de la tercera edad lleven 
+                una plica o tarjeta con sus datos y teléfonos de referencia.</p>
           </div>
         </div>
       </div>
