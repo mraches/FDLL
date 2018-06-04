@@ -106,6 +106,8 @@
     <Content Include="bootstrap.min.css" />
     <Content Include="font-awesome.css" />
     <Content Include="font-awesome.min.css" />
+    <Content Include="img\artista1.JPG" />
+    <Content Include="img\artista1_cover.JPG" />
     <Content Include="img\fddl2017.jpg" />
     <Content Include="img\fddl20172.jpg" />
     <Content Include="img\header-bg.jpg" />
