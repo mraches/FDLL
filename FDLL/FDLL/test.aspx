@@ -43,13 +43,13 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#organizacion">Organizacion</a>
+              <a class="nav-link js-scroll-trigger" href="#consejos">Consejos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#artistas">Artistas</a>
+              <a class="nav-link js-scroll-trigger" href="#artistas">Obras</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#historia">Historia</a>
+              <a class="nav-link js-scroll-trigger" href="#historia">Por que</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#equipo">Equipo</a>
@@ -74,11 +74,11 @@
     </header>
 
     <!-- Services -->
-    <section id="services">
+    <section id="consejos">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Organizacion</h2>
+            <h2 class="section-heading text-uppercase">Consejos</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
@@ -131,7 +131,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Artistas</h2>
+            <h2 class="section-heading text-uppercase">Obras</h2>
             <h3 class="section-subheading text-muted">descripcion de las artistas o tipo de arte</h3>
           </div>
         </div>
@@ -143,7 +143,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/artista1.JPG" alt="">
+              <img class="img-fluid" src="img/artista1.JPG" alt="artist test photo">
             </a>
             <div class="portfolio-caption">
               <h4>artista</h4>
@@ -230,7 +230,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Historia</h2>
+            <h2 class="section-heading text-uppercase">Por que</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
@@ -513,7 +513,7 @@
     <!-- Portfolio Modals -->
 
     <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="artista1" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
