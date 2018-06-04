@@ -18,6 +18,22 @@ and limitations under the License.
 /// <reference no-default-lib="true"/>
 
 
-/// <reference path="lib.es2017.d.ts" />
-/// <reference path="lib.es2018.promise.d.ts" />
-/// <reference path="lib.es2018.regexp.d.ts" />
+interface RegExpMatchArray {
+    groups?: {
+        [key: string]: string
+    }
+}
+
+interface RegExpExecArray {
+    groups?: {
+        [key: string]: string
+    }
+}
+
+interface RegExp {
+    /**
+     * Returns a Boolean value indicating the state of the dotAll flag (s) used with a regular expression.
+     * Default is false. Read-only.
+     */
+    readonly dotAll: boolean;
+}
