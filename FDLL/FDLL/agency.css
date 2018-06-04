@@ -17,7 +17,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: darkred;
 }
 
 .text-primary {
@@ -67,6 +67,7 @@ section h3.section-subheading {
 .btn-xl {
   font-size: 18px;
   padding: 20px 40px;
+  background-color:darkred;
 }
 
 .btn-primary {
@@ -75,8 +76,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: darkred !important;
+  border-color: darkred !important;
   color: white;
 }
 
@@ -103,7 +104,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #212529;
+  background-color: #000000;
 }
 
 #mainNav .navbar-toggler {
@@ -113,7 +114,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: darkred;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
