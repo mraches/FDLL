@@ -30,10 +30,9 @@
   </head>
 
   <body id="page-top">
-
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-        <img src="img/quito-cultura_-logov3%20(1).png" id="img_quitocultura" alt="quito cultura foto" />
+        <img src="img/Municipio_Quito_2014.svg.png" id="img_quitomunicipio" alt="quito municipio logo" />
       <div class="container">
         <a class="navbar-brand js-scroll-trigger"></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,7 +48,7 @@
               <a class="nav-link js-scroll-trigger" href="#artistas">Obras</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#historia">Por que</a>
+              <a class="nav-link js-scroll-trigger" href="#historia">Por qué</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#equipo">Equipo</a>
@@ -230,7 +229,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Por que</h2>
+            <h2 class="section-heading text-uppercase">Por qué</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>

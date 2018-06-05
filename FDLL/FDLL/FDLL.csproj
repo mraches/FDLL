@@ -108,10 +108,8 @@
     <Content Include="font-awesome.min.css" />
     <Content Include="img\artista1.JPG" />
     <Content Include="img\artista1_cover.JPG" />
-    <Content Include="img\fddl2017.jpg" />
     <Content Include="img\fddl20172.jpg" />
-    <Content Include="img\header-bg.jpg" />
-    <Content Include="img\quito-cultura_-logov3 %281%29.png" />
+    <Content Include="img\Municipio_Quito_2014.svg.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
