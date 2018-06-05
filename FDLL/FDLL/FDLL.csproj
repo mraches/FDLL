@@ -106,10 +106,13 @@
     <Content Include="bootstrap.min.css" />
     <Content Include="font-awesome.css" />
     <Content Include="font-awesome.min.css" />
-    <Content Include="img\artista1.JPG" />
-    <Content Include="img\artista1_cover.JPG" />
-    <Content Include="img\fddl20172.jpg" />
+    <Content Include="img\fbsocial.png" />
+    <Content Include="img\fdl2018.png" />
+    <Content Include="img\flickrsocial.png" />
+    <Content Include="img\instagramsocial.png" />
     <Content Include="img\Municipio_Quito_2014.svg.png" />
+    <Content Include="img\quito-cultura_-logov3.png" />
+    <Content Include="img\twittersocial.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
