@@ -67,7 +67,7 @@
         <div class="intro-text">
           <div class="intro-lead-in">Bienvenidos a Quito</div>
           <div class="intro-heading text-uppercase">Fiesta de La Luz 2018</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Dime más</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#porque">Dime más</a>
         </div>
       </div>
     </header>
