@@ -45,10 +45,10 @@
               <a class="nav-link js-scroll-trigger" href="#consejos">Consejos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#artistas">Obras</a>
+              <a class="nav-link js-scroll-trigger" href="#obras">Obras</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#historia">Por qué</a>
+              <a class="nav-link js-scroll-trigger" href="#porque">Por qué</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#equipo">Equipo</a>
@@ -72,7 +72,7 @@
       </div>
     </header>
 
-    <!-- Services -->
+    <!-- Consejos -->
     <section id="consejos">
       <div class="container">
         <div class="row">
@@ -125,8 +125,8 @@
       </div>
     </section>
 
-    <!-- Portfolio Grid -->
-    <section class="bg-light" id="portfolio">
+    <!-- Obras -->
+    <section class="bg-light" id="obras">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -224,8 +224,8 @@
       </div>
     </section>
 
-    <!-- About -->
-    <section id="about">
+    <!-- Por que -->
+    <section id="porque">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -305,8 +305,8 @@
       </div>
     </section>
 
-    <!-- Team -->
-    <section class="bg-light" id="team">
+    <!-- Equipo -->
+    <section class="bg-light" id="equipo">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -424,8 +424,8 @@
       </div>
     </section>
 
-    <!-- Contact -->
-    <section id="contact">
+    <!-- Contacto -->
+    <section id="contacto">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
