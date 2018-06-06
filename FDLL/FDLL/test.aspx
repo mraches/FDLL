@@ -32,7 +32,7 @@
   <body id="page-top">
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-        <img src="img/Municipio_Quito_2014.svg.png" id="img_quitomunicipio" alt="quito municipio logo" />
+        <!--<img src="img/quito-cultura_-logov3.png" id="img_quitocultura" alt="quito cultura logo" /> -->
       <div class="container">
         <a class="navbar-brand js-scroll-trigger"></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,9 +65,9 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Bienvenidos a Quito</div>
+          <!--<div class="intro-lead-in">Bienvenidos a Quito</div>
           <div class="intro-heading text-uppercase">Fiesta de La Luz 2018</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#porque">Dime más</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#porque">Dime más</a>-->
         </div>
       </div>
     </header>
@@ -233,6 +233,7 @@
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
+
         <div class="row">
           <div class="col-lg-12">
             <ul class="timeline">
@@ -242,7 +243,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2009-2011</h4>
+                    <h4>2016</h4>
                     <h4 class="subheading">evento o ano</h4>
                   </div>
                   <div class="timeline-body">
@@ -250,13 +251,14 @@
                   </div>
                 </div>
               </li>
+
               <li class="timeline-inverted">
-                <div class="timeline-image">
+                <div class="timeline-imagesmall">
                   <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>March 2011</h4>
+                    <h4>impacto</h4>
                     <h4 class="subheading">evento o ano</h4>
                   </div>
                   <div class="timeline-body">
@@ -270,7 +272,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>December 2012</h4>
+                    <h4>2017</h4>
                     <h4 class="subheading">evento o ano</h4>
                   </div>
                   <div class="timeline-body">
@@ -279,12 +281,12 @@
                 </div>
               </li>
               <li class="timeline-inverted">
-                <div class="timeline-image">
+                <div class="timeline-imagesmall">
                   <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>July 2014</h4>
+                    <h4>impacto</h4>
                     <h4 class="subheading">evento o ano</h4>
                   </div>
                   <div class="timeline-body">
@@ -294,9 +296,9 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <h4>Be Part
-                    <br>Of Our
-                    <br>Story!</h4>
+                  <h4>2018
+                    <br>dicho
+                    <br>lindo</h4>
                 </div>
               </li>
             </ul>
@@ -480,7 +482,7 @@
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
                 <a href="#">
-                  <i class="fa fa-twitter"></i>
+                    <i class="fa fa-twitter"></i>
                 </a>
               </li>
               <li class="list-inline-item">
