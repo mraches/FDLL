@@ -48,13 +48,16 @@
               <a class="nav-link js-scroll-trigger" href="#obras">Obras</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#porque">Por qué</a>
+              <a class="nav-link js-scroll-trigger" href="#proceso">Proceso</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#equipo">Equipo</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contacto">Contacto</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="http://www.quitocultura.info/">QuitoCultura</a>
             </li>
           </ul>
         </div>
@@ -84,8 +87,7 @@
         <div class="row text-center">
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                <img src="img/seguridad.png" style="height:130px; width:130px" id="img_seguridadicon" />
             </span>
             <h4 class="service-heading">Seguridad</h4>
             <p class="text-muted">Efectivos de la Policía Metropolitana, de la Policía Nacional y del Cuerpo de 
@@ -98,8 +100,7 @@
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                <img src="img/movilidad.png" style="height:120px; width:131px" id="img_movilidadicon"/>
             </span>
             <h4 class="service-heading">Movilidad</h4>
             <p class="text-muted"> Durante los cinco días de la Fiesta de la Luz, el tránsito vehicular por el 
@@ -112,8 +113,7 @@
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                <img src="img/consejos.png" style="height:117px; width:149px" id="img_consejosicon" />
             </span>
             <h4 class="service-heading">Consejos</h4>
             <p class="text-muted">Se establecerá un sentido
@@ -224,13 +224,13 @@
       </div>
     </section>
 
-    <!-- Por que -->
-    <section id="porque">
+    <!-- proceso -->
+    <section id="proceso">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Por qué</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">EL PROCESO</h2>
+            <h3 class="section-subheading text-muted">Tres años de gestión permanente</h3>
           </div>
         </div>
 
@@ -244,28 +244,39 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2016</h4>
-                    <h4 class="subheading">evento o ano</h4>
+                    <h4 class="subheading">Hábitat III</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted"> En octubre Quito fue la sede de la Conferencia Hábitat III 
+                        sobre Desarrollo Urbano, organizada por las Naciones Unidas. El lado más espectacular, 
+                        sin duda, fue la Fiesta de la Luz. Con el apoyo de la ciudad de Lyon (Francia) llegó por 
+                        primera vez a Latinoamérica este festival. Seis intervenciones luminosas en espacios 
+                        patrimoniales se activaron cada noche del 15 al 19 de octubre, entre las 19:30 y las 23:00. 
+                    </p>
                   </div>
                 </div>
               </li>
 
-              <li class="timeline-inverted">
+              <li class="timeline-inverted" style="text-align:right">
                 <div class="timeline-imagesmall">
-                  <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid float-left" src="img/about/2.jpg" alt="">
                 </div>
-                <div class="timeline-panel">
+                <div class="timeline-panelinverted">
                   <div class="timeline-heading">
-                    <h4>impacto</h4>
-                    <h4 class="subheading">evento o ano</h4>
+                    <h4>Economía</h4>
+                    <h4 class="subheading">Un impacto directo</h4>
                   </div>
-                  <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <div class="timeline-bodyinverted">
+                    <p class="text-muted" style="max-width:450px">2 millones de personas generaron un movimiento económico de aproximadamente
+                         USD 15 millones durante la Fiesta de la Luz 2017. En la primera edición, 1,2 milllones de 
+                        visitantes activaron con cerca de USD 10 millones la economía de la ciudad, especialmente en el
+                         Centro Histórico. La ciudad invierte en sus artistas y creadores: en 2018, serán USD 235 mil 
+                        en obras y producción, además de otros USD 400 mil en infraestructura contratada con empresas 
+                        locales. Cerca de 500 empleos directos se generan con este festival.</p>
                   </div>
                 </div>
               </li>
+
               <li>
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
@@ -273,32 +284,43 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2017</h4>
-                    <h4 class="subheading">evento o ano</h4>
+                    <h4 class="subheading">Quito, ciudad luz</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Tras su éxito en Hábitat III, la Fiesta de la Luz regresó en 2017 para el 
+                        Verano de la Artes. El festival coincidió con la celebración del 10 de Agosto, Primer Grito de la
+                         Independencia. En esta edición fueron 9 obras participantes, incluidas Desde Francia llegaron
+                         obras de Leslie Epsztein, Camille Gross, Laurent Langlois, Eric Michel, Patrice Warrener y 
+                        Daniel Knipper. Los artistas ecuatorianos participantes fueron Fidel Eljuri y Nicola Cruz, 
+                        Pablo Mora, Miguel Vélez e Isabel Páez.
+                    </p>
                   </div>
                 </div>
               </li>
-              <li class="timeline-inverted">
+              <li class="timeline-inverted" style="text-align:left">
                 <div class="timeline-imagesmall">
-                  <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid float-left" src="img/about/4.jpg" alt="">
                 </div>
-                <div class="timeline-panel">
+                <div class="timeline-panelinverted" style="text-align:right">
                   <div class="timeline-heading">
-                    <h4>impacto</h4>
-                    <h4 class="subheading">evento o ano</h4>
+                    <h4>Espacio público</h4>
+                    <h4 class="subheading">Vivir la ciudad</h4>
                   </div>
-                  <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <div class="timeline-bodyinverted">
+                    <p class="text-muted" style="max-width:450px">La ocupación del espacio público con experiencias culturales es un principio
+                         transversal de los derechos culturales de Quito. Es una de las principales razones de ser de la 
+                         Fiesta de la Luz. Son plazas y fachadas del Quito patrimonial, del Centro Histórico. 
+                        La presencia ciudadana masiva en las calles durante esas noches es un proceso inédito de 
+                        reapropiación de la ciudad.
+                    </p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
                   <h4>2018
-                    <br>dicho
-                    <br>lindo</h4>
+                    <br>La fiesta
+                    <br>crece</h4>
                 </div>
               </li>
             </ul>
@@ -431,7 +453,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Contacte con nosotros</h2>
+            <h2 class="section-heading text-uppercase">Contactenos</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
@@ -476,23 +498,23 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright &copy; QuitoCultura 2018</span>
+            <span class="copyright">Copyright &copy; SecretariadeCulturaQuito 2018</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
                 <a href="#">
-                    <i class="fa fa-twitter"></i>
+                    <img src="img/twittersocial.png" style="height:40px; width:40px" />
                 </a>
               </li>
               <li class="list-inline-item">
                 <a href="#">
-                  <i class="fa fa-facebook"></i>
+                    <img src="img/fbsocial.png" style="height:40px; width:40px"/>
                 </a>
               </li>
               <li class="list-inline-item">
                 <a href="#">
-                  <i class="fa fa-linkedin"></i>
+                    <img src="img/flickrsocial.png" style="height:40px; width:40px"/>
                 </a>
               </li>
             </ul>
