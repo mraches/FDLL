@@ -139,6 +139,7 @@
     <Content Include="img\obras\estados-peq.jpg" />
     <Content Include="img\obras\expresiones-big.jpg" />
     <Content Include="img\obras\expresiones-peq.jpg" />
+    <Content Include="img\obras\Fuerzas-big.jpg" />
     <Content Include="img\obras\Fuerzas-peq.jpg" />
     <Content Include="img\obras\gota-big.jpg" />
     <Content Include="img\obras\gota-peq.jpg" />
@@ -162,6 +163,7 @@
     <Content Include="img\obras\psycodelia-peq.jpg" />
     <Content Include="img\obras\sombrillas-big.jpg" />
     <Content Include="img\obras\sombrillas-peq.jpg" />
+    <Content Include="img\obras\Winaykay-big.jpg" />
     <Content Include="img\obras\Winaykay-peq.jpg" />
     <Content Include="img\quito-cultura_-logov3.png" />
     <Content Include="img\Consejos\seguridad.png" />
@@ -181,8 +183,6 @@
     <None Include=".bin\git.cmd" />
     <None Include=".bin\node.cmd" />
     <None Include=".bin\npm.cmd" />
-    <Content Include="img\obras\Fuerzas-big" />
-    <Content Include="img\obras\Winaykay-big" />
     <Content Include="jquery.min.map" />
     <Content Include="jquery.slim.min.map" />
     <Content Include="bootstrap.bundle.js.map" />

@@ -795,7 +795,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Sombrillas de luz</h2>
                   <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" 
+                      alt="Sombrillas de luz">
                   <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
                        autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
                   <ul class="list-inline">
@@ -830,7 +831,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Fuerzas en equilibrio</h2>
                   <p class="item-intro text-muted">Miguel Ángel Murgueytio</p>
-                  <!--not an image <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" alt="Fuerzas en equilibrio">-->
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/Fuerzas-big.jpg" 
+                      alt="Fuerzas en equilibrio">
                   <p>Escultura de luz inteligente, construida a partir de estudios de geometría básica y 
                       diseño estructural del Arco de La Reina. El sonido ha sido diseñado por el productor de música
                        electrónica Dgroove.</p>
@@ -865,7 +867,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Orquídeas salvajes</h2>
                   <p class="item-intro text-muted">Colectivo B.A.B.E.L</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/orquideas-big.jpg"
+                       alt="Orquídeas salvajes">
                   <p>Estructuras de metal luminosas de gran formato. La obra se inspira en la naturaleza y crea un universo fantástico de ambientación salvaje en el centro de la ciudad. El colectivo B.A.B.E.L (Bernardo Jarrín, Carlos Hidalgo y Geovanny Verdezoto) busca unir el arte, el diseño industrial, y la arquitectura.  </p>
                   <ul class="list-inline">
                     <li>Plaza Huerto San Agustín</li>
@@ -898,7 +901,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Psycodelia andina</h2>
                   <p class="item-intro text-muted">Andrés Aulestia</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/psycodelia-big.jpg"
+                       alt="Psycodelia andina">
                   <p>Escultura digital viva de luz que representa al Diablo Huma. La obra explora la cosmología andina a través de sus colores y formas y es acompañada por los ritmos electroandinos de Quixosis.</p>
                   <ul class="list-inline">
                     <li>Parque Urbano Cumandá</li>
@@ -931,7 +935,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Phantom: Lo que no se ve</h2>
                   <p class="item-intro text-muted">Aquiles Jarrín</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/phantom-big.jpg"
+                       alt="Phantom: Lo que no se ve">
                   <p>La instalación busca hacer resonar la arquitectura moderna del Teatro Atahualpa con la arquitectura colonial del Centro Histórico. Cubrir para mostrar. Iluminar para afectar. Resaltar en medio del dominante entorno colonial otro tipo de expresiones arquitectónicas.</p>
                   <ul class="list-inline">
                     <li>Teatro Atahualpa</li>
@@ -964,7 +969,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Estados del tiempo</h2>
                   <p class="item-intro text-muted">Gary Vera</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/estados-big.jpg"
+                      alt="Estados del tiempo">
                   <p>Fragmentos de textos literarios ecuatorianos que se refieren a la ciudad de Quito cobran vida y se imprimen con letreros led en fachadas del Centro Histórico.</p>
                   <ul class="list-inline">
                     <li>Plaza de Las Conceptas</li>
@@ -997,7 +1003,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Ayni de luz</h2>
                   <p class="item-intro text-muted">Felipe Jácome y Daniel Espinosa</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                      src="img/obras/ayni-big.jpg" alt="Ayni de luz">
                   <p>Una chakana (cruz andina) de siete metros de alto, en hierro, servirá de soporte para colocar una instalación de luces. Nicolás Dàvila compondrá la música que acompañará en sincronía la iluminación.</p>
                   <ul class="list-inline">
                     <li>Plaza Hermano Miguel</li>
@@ -1031,7 +1038,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Manos de luz</h2>
                   <p class="item-intro text-muted">Geovanny Verdozoto</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                       src="img/obras/manos-big.jpg" alt="Manos de luz">
                   <p>Estructuras de metal y telas iluminadas conforman dos manos que transmiten un mensaje sensorial. La obra representa la espiritualidad del ser y la manifestación de paz en tiempos de crisis.</p>
                   <ul class="list-inline">
                     <li>Plaza Chica</li>
@@ -1064,7 +1072,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">La canción de la cordillera</h2>
                   <p class="item-intro text-muted">Mesías Maiguashca y Carlos Poete</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                      src="img/obras/cordillera-big.jpg" alt="La canción de la cordillera"/>
                   <p>La grabación de La canción de la tierra (obra musical contemporánea de Mesías Maiguashca que se estrenó en un amanecer en el Itchimbía) interactúa con vídeos abstractos del planeta en diversos estados y momentos, realizados por el artista Carlos Poete. Es una instalación audiovisual y sonora con proyecciones en el piso.</p>
                   <ul class="list-inline">
                     <li>Palacio de Cristal, Itchimbía</li>
@@ -1097,7 +1106,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">La gota ke derramó el vaso</h2>
                   <p class="item-intro text-muted">Miguel Varea y Dayuma Guayasamín</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px"
+                       src="img/obras/gota-big.jpg" alt="La gota ke derramó el vaso"/>
                   <p>Gotas de diversos tamaños de acero inoxidable reflejarán efectos luminosos. Las gotas con su movimiento natural recrearán la luz única del entorno en el que se encuentran.</p>
                   <ul class="list-inline">
                     <li>Parque Urbano Cumandá</li>
@@ -1115,7 +1125,7 @@
       </div>
     </div>
  <!-- Modal 11 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="DíazHallo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1128,13 +1138,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">Las huellas del pasado</h2>
+                  <p class="item-intro text-muted">Édison Díaz y Alejandro Hallo </p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                       src="img/obras/huellas-big.jpg" alt="Las huellas del pasado"/>
+                  <p>Una colorización y composición moderna con estética precolombina proyectada en las paredes antiguas de las calles del antiguo convento de clausura apelan a la memoria colectiva de los transeúntes.</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Muro del Carmen Alto</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
@@ -1149,7 +1159,7 @@
       </div>
     </div>
  <!-- Modal 12 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="Knipper" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1162,13 +1172,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">El brillo de las sombras</h2>
+                  <p class="item-intro text-muted">Daniel Knipper</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                      src="img/obras/brillo-sombras-big.jpg" alt="El brillo de las sombras"/>
+                  <p>En la intimidad de la iglesia de La Compañía, el techo y la nave dialogan con el coro en un juego de brillos y sombras. La atmósfera evoca la luz tenue de unas velas. Roza apenas el pan de oro y los ornamentos de la arquitectura. La sombra brinda una resonancia profunda al oro, que recobra su verdad onírica y espiritual.</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Iglesia de La Compañía</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
@@ -1183,7 +1193,7 @@
       </div>
     </div>
 <!-- Modal 13 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="Barray" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1196,13 +1206,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">Nido de luz</h2>
+                  <p class="item-intro text-muted">Erik Barray (Música de Nelson García)</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                     src="img/obras/nido-big.jpg"  alt="Nido de luz"/>
+                  <p>El artista francés “tejedor de luz” Eric Barray, junto a su fiel cómplice Emmanuel Théry, crearán su obra en colaboración con artesanos de Imbabura. Una creación de universos sensoriales y visuales que enlazan la ciudad con la naturaleza. Al usar saberes ancestrales y técnicas contemporáneas, la obra conecta el pasado con el futuro. Obra musicalizada por el ecuatoriano Nelson García.</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Centro Cultural Metropolitano</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
@@ -1218,7 +1228,7 @@
     </div>
 
  <!-- Modal 14 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="Barletta" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1231,13 +1241,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">Wiñaykay</h2>
+                  <p class="item-intro text-muted">Salvatore Barletta</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
+                       src="img/obras/Winaykay-big.jpg" alt="Wiñaykay"/>
+                  <p>Wiñaykay es un chamán quien llega del bosque hasta los andes para contarnos la historia de Quito y de sus habitantes. El guardián de la historia la ciudad invoca tres espíritus y tres momentos: el jaguar, el cóndor, y el mono que representan respectivamente la época precolombina, la época de la conquista, y la época contemporánea. La obra busca generar una reflexión alrededor del la expresión del legado cultural y de la identidad de los quiteños desde las civilizaciones antiguas hasta la cultura actual. Diseño de sonido y música: Thomas Petit</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Iglesia Santo Domingo</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
@@ -1252,7 +1262,7 @@
       </div>
     </div>
  <!-- Modal 15 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="Langlois" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1265,13 +1275,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">Herencia</h2>
+                  <p class="item-intro text-muted">Laurent Langlois</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px"
+                      src="img/obras/herencia-big.jpg" alt="Herencia"/>
+                  <p>La fachada de la iglesia y convento de San Francisco se vuelve actriz y soporte de un viaje gráfico y luminoso en el patrimonio histórico y cultural. Bajo la mirada de los volcanes y de una naturaleza exuberante, máscaras y rostros del patrimonio precolombino, inca e hispánico aparecen de repente desde la fachada. Parece que nos miran, tal vez nos hablan.</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Iglesia San Francisco</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
@@ -1286,7 +1296,7 @@
       </div>
     </div>
  <!-- Modal 16 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="Moreaux" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1299,13 +1309,12 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
+                  <h2 class="text-uppercase">Expresiones</h2>
+                  <p class="item-intro text-muted">Yves Moreaux</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <p>Ubicadas en las faldas de las montañas, las casas contemplan la ciudad con sus grandes ojos negros y sus expresiones angulosas. Tal vez están soñando con curvas de arquitecturas antiguas... En los pentagramas de una sinfonía ecuatoriana o de un pasillo, el mosaico de casas se transforma. Las expresiones artísticas se mezclan y proponen otros paisajes, otras armonías, para finalmente componer otro panorama nocturno de la ciudad. Obra musicalizada por el ecuatoriano Nicola Cruz.</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Catedral Metropolitana</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
@@ -1320,7 +1329,7 @@
       </div>
     </div>
  <!-- Modal 17 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="Martine" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1333,13 +1342,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">Lumineoles</h2>
+                  <p class="item-intro text-muted">Christophe Martine</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px"
+                       src="img/obras/lumineoles-big.jpg" alt="Lumineoles"/>
+                  <p>El equipo “Porté par le vent” y sus cometas inspiradas en el mundo animal y vegetal presentará su trabajo en el bulevar 24 de Mayo. Construirán una instalación poética y dulce que servirá de puerta de entrada para los visitantes que lleguen desde el sur de la ciudad a la Fiesta de la Luz.</p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>Bulevar 24 de Mayo</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
