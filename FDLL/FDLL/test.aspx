@@ -228,7 +228,7 @@
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">              
+              <img class="img-fluid" src="img/obras/ayni-peq.jpg" alt="Lenin Moncayo">              
             </a>
             <div class="portfolio-caption">
               <h4>Ayni de luz</h4>
@@ -243,7 +243,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="">
+                <img src="img/obras/manos-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Manos de luz </h4>
@@ -258,7 +258,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="">
+                <img src="img/obras/cordillera-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>La canción de la cordillera</h4>
@@ -273,7 +273,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="">
+                <img src="img/obras/gota-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>La gota ke derramó el vaso</h4>
@@ -288,7 +288,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="">
+                <img src="img/obras/huellas-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Las huellas del pasado</h4>
@@ -300,7 +300,7 @@
             <a class="portfolio-link" data-toggle="modal" href="#artist6">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <img class="img-fluid" src="img/obras/estados-peq.jpg"  alt="">
+                    <img src="img/obras/brillo-sombras-peq.jpg" alt="">
                 </div>
               </div>              
             </a>
@@ -320,7 +320,7 @@
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">              
+                <img src="img/obras/nido-peq.jpg" alt="Lenin Moncayo">              
             </a>
             <div class="portfolio-caption">
               <h4>Nido de luz</h4>
@@ -335,7 +335,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="">
+                <img src="img/obras/Winaykay-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Wiñaykay</h4>
@@ -350,7 +350,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="">
+                <img src="img/obras/herencia-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Herencia</h4>
@@ -365,7 +365,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="">
+                <img src="img/obras/expresiones-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Expresiones</h4>
@@ -380,7 +380,7 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="">
+              <img src="img/obras/lumineoles-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Lumineoles</h4>
