@@ -125,8 +125,9 @@
           </div>
         </div>
 
-<!--row 1, 3 artists per row-->
+<!--row 1, 6 artists per row-->
         <div class="row">
+            <!--1-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist1">
               <div class="portfolio-hover">
@@ -141,7 +142,7 @@
               <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
-
+           <!--2-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist2">
               <div class="portfolio-hover">
@@ -156,7 +157,7 @@
               <p class="text-muted">Miguel Ángel Murgueytio</p>
             </div>
           </div>
-
+          <!--3-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist3">
               <div class="portfolio-hover">
@@ -171,7 +172,7 @@
               <p class="text-muted">Colectivo B.A.B.E.L</p>
             </div>
           </div>
-
+          <!--4-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist4">
               <div class="portfolio-hover">
@@ -186,7 +187,7 @@
               <p class="text-muted">Andrés Aulestia</p>
             </div>
           </div>
-
+         <!--5-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist5">
               <div class="portfolio-hover">
@@ -201,7 +202,7 @@
               <p class="text-muted">Aquiles Jarrín</p>
             </div>
           </div>
-
+         <!--6-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist6">
               <div class="portfolio-hover">
@@ -216,7 +217,9 @@
             </div>
           </div>
         </div>
+   <!--Row 2, artists 7-12-->     
         <div class="row">
+        <!--7-->
           <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist1">
@@ -232,6 +235,7 @@
               <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
+        <!--8-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist2">
               <div class="portfolio-hover">
@@ -246,7 +250,7 @@
               <p class="text-muted">Miguel Ángel Murgueytio</p>
             </div>
           </div>
-
+        <!--9-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist3">
               <div class="portfolio-hover">
@@ -261,7 +265,7 @@
               <p class="text-muted">Colectivo B.A.B.E.L</p>
             </div>
           </div>
-
+        <!--10-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist4">
               <div class="portfolio-hover">
@@ -276,7 +280,7 @@
               <p class="text-muted">Andrés Aulestia</p>
             </div>
           </div>
-
+        <!--11-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist5">
               <div class="portfolio-hover">
@@ -291,7 +295,7 @@
               <p class="text-muted">Aquiles Jarrín</p>
             </div>
           </div>
-
+        <!--12-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist6">
               <div class="portfolio-hover">
@@ -306,7 +310,9 @@
             </div>
           </div>
         </div>
+    <!--row 3, artists 13-18-->
       <div class="row">
+       <!--13-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist1">
               <div class="portfolio-hover">
@@ -321,7 +327,7 @@
               <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
-
+        <!--14-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist2">
               <div class="portfolio-hover">
@@ -336,7 +342,7 @@
               <p class="text-muted">Miguel Ángel Murgueytio</p>
             </div>
           </div>
-
+        <!--15-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist3">
               <div class="portfolio-hover">
@@ -351,7 +357,7 @@
               <p class="text-muted">Colectivo B.A.B.E.L</p>
             </div>
           </div>
-
+        <!--16-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist4">
               <div class="portfolio-hover">
@@ -366,7 +372,7 @@
               <p class="text-muted">Andrés Aulestia</p>
             </div>
           </div>
-
+        <!--17-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist5">
               <div class="portfolio-hover">
@@ -381,7 +387,7 @@
               <p class="text-muted">Aquiles Jarrín</p>
             </div>
           </div>
-
+        <!--18-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#artist6">
               <div class="portfolio-hover">
@@ -395,8 +401,10 @@
               <p class="text-muted">Gary Vera</p>
             </div>
           </div>
+
         </div>
       </div>
+     </div>
     </section>
 
     <!--el proceso -->
