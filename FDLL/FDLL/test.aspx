@@ -128,13 +128,12 @@
 <!--row 1, 3 artists per row-->
         <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+            <a class="portfolio-link" data-toggle="modal" href="#artist1">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+                  <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">
                 </div>
-              </div>
-              <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">
+              </div>              
             </a>
             <div class="portfolio-caption">
               <h4>SOMBRILLAS DE LUZ </h4>
@@ -590,7 +589,7 @@
     <!-- Portfolio Modals -->
 
     <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="artista1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="artist1" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -794,18 +793,22 @@
     </div>
 
    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    
+<script src="jquery.min.js"></script>
+<script src="bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="jquery.easing.min.js"></script>
 
     <!-- Contact form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
+<script src="jqBootstrapValidation.js"></script>
+<script src="contact_me.js"></script>
+ 
 
     <!-- Custom scripts for this template -->
-    <script src="js/agency.min.js"></script>
+    
+<script src="agency.min.js"></script>
 
   </body>
 
