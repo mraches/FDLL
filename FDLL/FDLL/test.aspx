@@ -814,7 +814,307 @@
       </div>
     </div>
 
- <!-- Modal 1 -->
+ <!-- Modal 2 -->
+    <div class="portfolio-modal modal fade" id="Murgueytio" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Fuerzas en equilibrio</h2>
+                  <p class="item-intro text-muted">Miguel Ángel Murgueytio</p>
+                  <!--not an image <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" alt="Fuerzas en equilibrio">-->
+                  <p>Escultura de luz inteligente, construida a partir de estudios de geometría básica y 
+                      diseño estructural del Arco de La Reina. El sonido ha sido diseñado por el productor de música
+                       electrónica Dgroove.</p>
+                  <ul class="list-inline">
+                    <li>Arco de la Reina</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 3 -->
+    <div class="portfolio-modal modal fade" id="Colectivo" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Orquídeas salvajes</h2>
+                  <p class="item-intro text-muted">Colectivo B.A.B.E.L</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>Estructuras de metal luminosas de gran formato. La obra se inspira en la naturaleza y crea un universo fantástico de ambientación salvaje en el centro de la ciudad. El colectivo B.A.B.E.L (Bernardo Jarrín, Carlos Hidalgo y Geovanny Verdezoto) busca unir el arte, el diseño industrial, y la arquitectura.  </p>
+                  <ul class="list-inline">
+                    <li>Plaza Huerto San Agustín</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 4 -->
+    <div class="portfolio-modal modal fade" id="Aulestia" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Psycodelia andina</h2>
+                  <p class="item-intro text-muted">Andrés Aulestia</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>Escultura digital viva de luz que representa al Diablo Huma. La obra explora la cosmología andina a través de sus colores y formas y es acompañada por los ritmos electroandinos de Quixosis.</p>
+                  <ul class="list-inline">
+                    <li>Parque Urbano Cumandá</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 5 -->
+    <div class="portfolio-modal modal fade" id="Jarrín" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Phantom: Lo que no se ve</h2>
+                  <p class="item-intro text-muted">Aquiles Jarrín</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>La instalación busca hacer resonar la arquitectura moderna del Teatro Atahualpa con la arquitectura colonial del Centro Histórico. Cubrir para mostrar. Iluminar para afectar. Resaltar en medio del dominante entorno colonial otro tipo de expresiones arquitectónicas.</p>
+                  <ul class="list-inline">
+                    <li>Teatro Atahualpa</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 6 -->
+    <div class="portfolio-modal modal fade" id="Vera" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Estados del tiempo</h2>
+                  <p class="item-intro text-muted">Gary Vera</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>Fragmentos de textos literarios ecuatorianos que se refieren a la ciudad de Quito cobran vida y se imprimen con letreros led en fachadas del Centro Histórico.</p>
+                  <ul class="list-inline">
+                    <li>Plaza de Las Conceptas</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<!-- Modal 7 -->
+    <div class="portfolio-modal modal fade" id="JácomeEspinosa" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Ayni de luz</h2>
+                  <p class="item-intro text-muted">Felipe Jácome y Daniel Espinosa</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>Una chakana (cruz andina) de siete metros de alto, en hierro, servirá de soporte para colocar una instalación de luces. Nicolás Dàvila compondrá la música que acompañará en sincronía la iluminación.</p>
+                  <ul class="list-inline">
+                    <li>Plaza Hermano Miguel</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+ <!-- Modal 8 -->
+    <div class="portfolio-modal modal fade" id="Verdozoto" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Manos de luz</h2>
+                  <p class="item-intro text-muted">Geovanny Verdozoto</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>Estructuras de metal y telas iluminadas conforman dos manos que transmiten un mensaje sensorial. La obra representa la espiritualidad del ser y la manifestación de paz en tiempos de crisis.</p>
+                  <ul class="list-inline">
+                    <li>Plaza Chica</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 9 -->
+    <div class="portfolio-modal modal fade" id="MaiguashcaPoete" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">La canción de la cordillera</h2>
+                  <p class="item-intro text-muted">Mesías Maiguashca y Carlos Poete</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>La grabación de La canción de la tierra (obra musical contemporánea de Mesías Maiguashca que se estrenó en un amanecer en el Itchimbía) interactúa con vídeos abstractos del planeta en diversos estados y momentos, realizados por el artista Carlos Poete. Es una instalación audiovisual y sonora con proyecciones en el piso.</p>
+                  <ul class="list-inline">
+                    <li>Palacio de Cristal, Itchimbía</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 10 -->
+    <div class="portfolio-modal modal fade" id="VareaGuayasamín" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">La gota ke derramó el vaso</h2>
+                  <p class="item-intro text-muted">Miguel Varea y Dayuma Guayasamín</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
+                  <p>Gotas de diversos tamaños de acero inoxidable reflejarán efectos luminosos. Las gotas con su movimiento natural recrearán la luz única del entorno en el que se encuentran.</p>
+                  <ul class="list-inline">
+                    <li>Parque Urbano Cumandá</li>
+                    <li>mas info</li>
+                    <li>mas info</li>
+                  </ul>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Regresar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ <!-- Modal 11 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -848,7 +1148,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 1 -->
+ <!-- Modal 12 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -882,109 +1182,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-<!-- Modal 1 -->
+<!-- Modal 13 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1019,7 +1217,7 @@
       </div>
     </div>
 
- <!-- Modal 1 -->
+ <!-- Modal 14 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1053,7 +1251,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 1 -->
+ <!-- Modal 15 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1087,7 +1285,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 1 -->
+ <!-- Modal 16 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1121,7 +1319,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 1 -->
+ <!-- Modal 17 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1155,212 +1353,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-<!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
-                  <ul class="list-inline">
-                    <li>Calle García Moreno</li>
-                    <li>mas info</li>
-                    <li>mas info</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fa fa-times"></i>
-                    Regresar</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- <!-- Modal 1 -->
+ <!-- Modal 18 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
