@@ -312,11 +312,52 @@
                 </div>
               </li>
 <!--panel and image 5-->
-              <li class="timeline-inverted">
+              <!--<li class="timeline-inverted">
                 <div class="timeline-image">
                   <h4>2018
                     <br>La fiesta
                     <br>crece</h4>
+                </div>
+              </li>-->
+<!--panel and image 5-->
+              <li>
+                <div class="timeline-image">
+                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <h4>2017</h4>
+                    <h4 class="subheading">Quito, ciudad luz</h4>
+                  </div>
+                  <div class="timeline-body">
+                    <p class="text-muted">Tras su éxito en Hábitat III, la Fiesta de la Luz regresó en 2017 para el 
+                        Verano de la Artes. El festival coincidió con la celebración del 10 de Agosto, Primer Grito de la
+                         Independencia. En esta edición fueron 9 obras participantes, incluidas Desde Francia llegaron
+                         obras de Leslie Epsztein, Camille Gross, Laurent Langlois, Eric Michel, Patrice Warrener y 
+                        Daniel Knipper. Los artistas ecuatorianos participantes fueron Fidel Eljuri y Nicola Cruz, 
+                        Pablo Mora, Miguel Vélez e Isabel Páez.
+                    </p>
+                  </div>
+                </div>
+              </li>
+<!--panel and image 5-->
+              <li class="timeline-inverted">
+                <div class="timeline-image" style="max-width:100px; max-height:100px">
+                  <img class="rounded-circle img-fluid float-left" style="max-width:140px" src="img/about/4.jpg" alt="">
+                </div>
+                <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
+                  <div class="timeline-heading">
+                    <h4>Espacio público</h4>
+                    <h4 class="subheading">Vivir la ciudad</h4>
+                  </div>
+                  <div class="timeline-body">
+                    <p class="text-muted">La ocupación del espacio público con experiencias culturales es un principio
+                         transversal de los derechos culturales de Quito. Es una de las principales razones de ser de la 
+                         Fiesta de la Luz. Son plazas y fachadas del Quito patrimonial, del Centro Histórico. 
+                        La presencia ciudadana masiva en las calles durante esas noches es un proceso inédito de 
+                        reapropiación de la ciudad.
+                    </p>
+                  </div>
                 </div>
               </li>
             </ul>
