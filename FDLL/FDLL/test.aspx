@@ -231,8 +231,8 @@
               <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">              
             </a>
             <div class="portfolio-caption">
-              <h4>SOMBRILLAS DE LUZ </h4>
-              <p class="text-muted">Lenin Moncayo</p>
+              <h4>Ayni de luz</h4>
+              <p class="text-muted">Felipe Jácome y Daniel Espinosa</p>
             </div>
           </div>
         <!--8-->
@@ -246,8 +246,8 @@
               <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>FUERZAS EN EQUILIBRIO </h4>
-              <p class="text-muted">Miguel Ángel Murgueytio</p>
+              <h4>Manos de luz </h4>
+              <p class="text-muted">Geovanny Verdozoto</p>
             </div>
           </div>
         <!--9-->
@@ -261,8 +261,8 @@
               <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>ORQUÍDEAS SALVAJES</h4>
-              <p class="text-muted">Colectivo B.A.B.E.L</p>
+              <h4>La canción de la cordillera</h4>
+              <p class="text-muted">Mesías Maiguashca y Carlos Poete</p>
             </div>
           </div>
         <!--10-->
@@ -276,8 +276,8 @@
               <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>PSYCODELIA ANDINA </h4>
-              <p class="text-muted">Andrés Aulestia</p>
+              <h4>La gota ke derramó el vaso</h4>
+              <p class="text-muted">Miguel Varea y Dayuma Guayasamín</p>
             </div>
           </div>
         <!--11-->
@@ -291,8 +291,8 @@
               <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>PHANTOM: LO QUE NO SE VE </h4>
-              <p class="text-muted">Aquiles Jarrín</p>
+              <h4>Las huellas del pasado</h4>
+              <p class="text-muted">Édison Díaz y Alejandro Hallo</p>
             </div>
           </div>
         <!--12-->
@@ -305,8 +305,8 @@
               </div>              
             </a>
             <div class="portfolio-caption">
-              <h4>ESTADOS DEL TIEMPO </h4>
-              <p class="text-muted">Gary Vera</p>
+              <h4>El brillo de las sombras </h4>
+              <p class="text-muted">Daniel Knipper</p>
             </div>
           </div>
         </div>
@@ -323,8 +323,8 @@
               <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">              
             </a>
             <div class="portfolio-caption">
-              <h4>SOMBRILLAS DE LUZ </h4>
-              <p class="text-muted">Lenin Moncayo</p>
+              <h4>Nido de luz</h4>
+              <p class="text-muted">Erik Barray (Música de Nelson García)</p>
             </div>
           </div>
         <!--14-->
@@ -338,8 +338,8 @@
               <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>FUERZAS EN EQUILIBRIO </h4>
-              <p class="text-muted">Miguel Ángel Murgueytio</p>
+              <h4>Wiñaykay</h4>
+              <p class="text-muted">Salvatore Barletta</p>
             </div>
           </div>
         <!--15-->
@@ -353,8 +353,8 @@
               <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>ORQUÍDEAS SALVAJES</h4>
-              <p class="text-muted">Colectivo B.A.B.E.L</p>
+              <h4>Herencia</h4>
+              <p class="text-muted">Laurent Langlois</p>
             </div>
           </div>
         <!--16-->
@@ -368,8 +368,8 @@
               <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>PSYCODELIA ANDINA </h4>
-              <p class="text-muted">Andrés Aulestia</p>
+              <h4>Expresiones</h4>
+              <p class="text-muted">Yves Moreaux</p>
             </div>
           </div>
         <!--17-->
@@ -383,8 +383,8 @@
               <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>PHANTOM: LO QUE NO SE VE </h4>
-              <p class="text-muted">Aquiles Jarrín</p>
+              <h4>Lumineoles</h4>
+              <p class="text-muted">Christophe Martine</p>
             </div>
           </div>
         <!--18-->
