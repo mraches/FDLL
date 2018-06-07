@@ -796,7 +796,7 @@
                   <h2 class="text-uppercase">Sombrillas de luz</h2>
                   <p class="item-intro text-muted">Lenin Moncayo</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" 
-                      alt="Sombrillas de luz">
+                      alt="Sombrillas de luz"/>
                   <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
                        autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
                   <ul class="list-inline">
@@ -832,7 +832,7 @@
                   <h2 class="text-uppercase">Fuerzas en equilibrio</h2>
                   <p class="item-intro text-muted">Miguel Ángel Murgueytio</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/Fuerzas-big.jpg" 
-                      alt="Fuerzas en equilibrio">
+                      alt="Fuerzas en equilibrio"/>
                   <p>Escultura de luz inteligente, construida a partir de estudios de geometría básica y 
                       diseño estructural del Arco de La Reina. El sonido ha sido diseñado por el productor de música
                        electrónica Dgroove.</p>
@@ -868,7 +868,7 @@
                   <h2 class="text-uppercase">Orquídeas salvajes</h2>
                   <p class="item-intro text-muted">Colectivo B.A.B.E.L</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/orquideas-big.jpg"
-                       alt="Orquídeas salvajes">
+                       alt="Orquídeas salvajes"/>
                   <p>Estructuras de metal luminosas de gran formato. La obra se inspira en la naturaleza y crea un universo fantástico de ambientación salvaje en el centro de la ciudad. El colectivo B.A.B.E.L (Bernardo Jarrín, Carlos Hidalgo y Geovanny Verdezoto) busca unir el arte, el diseño industrial, y la arquitectura.  </p>
                   <ul class="list-inline">
                     <li>Plaza Huerto San Agustín</li>
@@ -902,7 +902,7 @@
                   <h2 class="text-uppercase">Psycodelia andina</h2>
                   <p class="item-intro text-muted">Andrés Aulestia</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/psycodelia-big.jpg"
-                       alt="Psycodelia andina">
+                       alt="Psycodelia andina"/>
                   <p>Escultura digital viva de luz que representa al Diablo Huma. La obra explora la cosmología andina a través de sus colores y formas y es acompañada por los ritmos electroandinos de Quixosis.</p>
                   <ul class="list-inline">
                     <li>Parque Urbano Cumandá</li>
@@ -936,7 +936,7 @@
                   <h2 class="text-uppercase">Phantom: Lo que no se ve</h2>
                   <p class="item-intro text-muted">Aquiles Jarrín</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/phantom-big.jpg"
-                       alt="Phantom: Lo que no se ve">
+                       alt="Phantom: Lo que no se ve"/>
                   <p>La instalación busca hacer resonar la arquitectura moderna del Teatro Atahualpa con la arquitectura colonial del Centro Histórico. Cubrir para mostrar. Iluminar para afectar. Resaltar en medio del dominante entorno colonial otro tipo de expresiones arquitectónicas.</p>
                   <ul class="list-inline">
                     <li>Teatro Atahualpa</li>
@@ -970,7 +970,7 @@
                   <h2 class="text-uppercase">Estados del tiempo</h2>
                   <p class="item-intro text-muted">Gary Vera</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/estados-big.jpg"
-                      alt="Estados del tiempo">
+                      alt="Estados del tiempo"/>
                   <p>Fragmentos de textos literarios ecuatorianos que se refieren a la ciudad de Quito cobran vida y se imprimen con letreros led en fachadas del Centro Histórico.</p>
                   <ul class="list-inline">
                     <li>Plaza de Las Conceptas</li>
@@ -1004,7 +1004,7 @@
                   <h2 class="text-uppercase">Ayni de luz</h2>
                   <p class="item-intro text-muted">Felipe Jácome y Daniel Espinosa</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
-                      src="img/obras/ayni-big.jpg" alt="Ayni de luz">
+                      src="img/obras/ayni-big.jpg" alt="Ayni de luz"/>
                   <p>Una chakana (cruz andina) de siete metros de alto, en hierro, servirá de soporte para colocar una instalación de luces. Nicolás Dàvila compondrá la música que acompañará en sincronía la iluminación.</p>
                   <ul class="list-inline">
                     <li>Plaza Hermano Miguel</li>
@@ -1039,7 +1039,7 @@
                   <h2 class="text-uppercase">Manos de luz</h2>
                   <p class="item-intro text-muted">Geovanny Verdozoto</p>
                   <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" 
-                       src="img/obras/manos-big.jpg" alt="Manos de luz">
+                       src="img/obras/manos-big.jpg" alt="Manos de luz"/>
                   <p>Estructuras de metal y telas iluminadas conforman dos manos que transmiten un mensaje sensorial. La obra representa la espiritualidad del ser y la manifestación de paz en tiempos de crisis.</p>
                   <ul class="list-inline">
                     <li>Plaza Chica</li>
@@ -1363,7 +1363,7 @@
       </div>
     </div>
  <!-- Modal 18 -->
-    <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="artista18" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
