@@ -88,7 +88,7 @@
         <div class="row text-center">
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-                <img src="img/seguridad.png" style="height:130px; width:130px" id="img_seguridadicon" />
+                <img src="img/Consejos/seguridad.png" style="height:130px; width:130px" id="img_seguridadicon" />
             </span>
             <h4 class="service-heading">Seguridad</h4>
             <p class="text-muted">En caso de tener cualquier emergencia, la Policía Metropolitana, 
@@ -96,7 +96,7 @@
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-                <img src="img/movilidad.png" style="height:120px; width:131px" id="img_movilidadicon"/>
+                <img src="img/Consejos/movilidad.png" style="height:120px; width:131px" id="img_movilidadicon"/>
             </span>
             <h4 class="service-heading">Movilidad</h4>
             <p class="text-muted"> Durante los cinco días de la Fiesta de la Luz, el tránsito vehicular por el 
@@ -104,7 +104,7 @@
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-                <img src="img/consejos.png" style="height:117px; width:149px" id="img_consejosicon" />
+                <img src="img/Consejos/consejos.png" style="height:117px; width:149px" id="img_consejosicon" />
             </span>
             <h4 class="service-heading">Consejos</h4>
             <p class="text-muted">Se establecerá un sentido de flujo unidireccional para las calles, es muy 
@@ -231,7 +231,7 @@
 <!--panel and image 1-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/el-proceso-2016.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-2016.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -251,7 +251,7 @@
 <!--panel and image 2-->
               <li class="timeline-inverted" style="text-align:right">
                 <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid" src="img/el-proceso-impacto.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-impacto.jpg" alt="">
                 </div>
                 <div class="timeline-panelinverted"style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
@@ -271,7 +271,7 @@
 <!--panel and image 3-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/el-proceso-2017.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-2017.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -292,7 +292,7 @@
 <!--panel and image 4-->
               <li class="timeline-inverted">
                 <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid" src="img/el-proceso-espacio-publico.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-espacio-publico.jpg" alt="">
                 </div>
                 <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
@@ -320,7 +320,7 @@
 <!--panel and image 5-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/el-proceso-2018.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-2018.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -340,7 +340,7 @@
 <!--panel and image 6-->
               <li class="timeline-inverted">
                 <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid"src="img/el-proceso-innovacion.jpg" alt="">
+                  <img class="rounded-circle img-fluid"src="img/ElProceso/el-proceso-innovacion.jpg" alt="">
                 </div>
                 <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
