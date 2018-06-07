@@ -91,8 +91,8 @@
                 <img src="img/Consejos/seguridad.png" style="height:130px; width:130px" id="img_seguridadicon" />
             </span>
             <h4 class="service-heading">Seguridad</h4>
-            <p class="text-muted">En caso de tener cualquier emergencia, la Policía Metropolitana, 
-                de la Policía Nacional y del Cuerpo de Bomberos son las personas a las que debe dirigirse.</p>
+            <p class="text-muted">La Policía Metropolitana, de la Policía Nacional y del Cuerpo de Bomberos 
+                son las personas a las que debe dirigirse para cualquier emergencia.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -502,7 +502,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contactenos</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Numero de telefono?</h3>
           </div>
         </div>
         <div class="row">
