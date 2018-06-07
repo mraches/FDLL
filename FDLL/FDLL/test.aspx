@@ -82,7 +82,6 @@
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Consejos</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.
-                <br /> Para toda de la informacion en consejos, timbre aqui.
             </h3>
           </div>
         </div>
@@ -112,8 +111,7 @@
                 importante respetarlo.</p>
           </div>
         </div>
-           <h3 class="section-subheading text-muted" style="text-align:center">Para toda de la informacion en 
-               consejos, timbre aqui.</h3>
+           <h3 class="section-subheading text-muted" style="text-align:center">Toda la informacion aqui.</h3>
       </div>
     </section>
 
@@ -223,7 +221,7 @@
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">EL PROCESO</h2>
             <h3 class="section-subheading text-muted">Tres años de gestión permanente. 
-                <br />Para toda la informacion en El Proceso, timbre aqui.</h3>
+                <br />Mas informacion aqui.</h3>
           </div>
         </div>
 
@@ -327,16 +325,15 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2018</h4>
-                    <h4 class="subheading">Quito, ciudad luz</h4>
+                    <h4 class="subheading">La fiesta crece</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Tras su éxito en Hábitat III, la Fiesta de la Luz regresó en 2017 para el 
-                        Verano de la Artes. El festival coincidió con la celebración del 10 de Agosto, Primer Grito de la
-                         Independencia. En esta edición fueron 9 obras participantes, incluidas Desde Francia llegaron
-                         obras de Leslie Epsztein, Camille Gross, Laurent Langlois, Eric Michel, Patrice Warrener y 
-                        Daniel Knipper. Los artistas ecuatorianos participantes fueron Fidel Eljuri y Nicola Cruz, 
-                        Pablo Mora, Miguel Vélez e Isabel Páez.
-                    </p>
+                    <p class="text-muted">Por tercer año consecutivo, el Centro Histórico de Quito recibe a la Fiesta 
+                        de la Luz, que en esta ocasión se realizará del 08 al 12 de agosto. 18 espacios serán 
+                        intervenidos, el doble que el año pasado. 135 proyectos fueron enviados por artistas y creadores
+                         a través del portal Quitocultura.info hasta el 20 de abril. Doce de esos proyectos fueron
+                         finalmente seleccionados para esta edición.
+                   </p>
                   </div>
                 </div>
               </li>
@@ -347,16 +344,15 @@
                 </div>
                 <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
-                    <h4>Espacio público</h4>
-                    <h4 class="subheading">Vivir la ciudad</h4>
+                    <h4>Innovación</h4>
+                    <h4 class="subheading">Diálogos creativos</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">La ocupación del espacio público con experiencias culturales es un principio
-                         transversal de los derechos culturales de Quito. Es una de las principales razones de ser de la 
-                         Fiesta de la Luz. Son plazas y fachadas del Quito patrimonial, del Centro Histórico. 
-                        La presencia ciudadana masiva en las calles durante esas noches es un proceso inédito de 
-                        reapropiación de la ciudad.
-                    </p>
+                    <p class="text-muted">En la Fiesta de la Luz es clave la innovación. Una exposición visual, 
+                        jornadas de talleres y charlas tendrán lugar en el Centro de Arte Contemporáneo,
+                         aprovechando la presencia de los artistas nacionales e internacionales. Se busca crear un 
+                        espacio de formación, de innovación, debate y cuestionamiento.
+                   </p>
                   </div>
                 </div>
               </li>

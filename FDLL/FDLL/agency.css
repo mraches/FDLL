@@ -105,6 +105,7 @@ img::-moz-selection {
 
 #mainNav {
   background-color: #000000;
+  height:55px;
 }
 
 #mainNav .navbar-toggler {
@@ -172,6 +173,7 @@ img::-moz-selection {
 
 header.masthead {
     text-align: center;
+    padding-top:100px;
     color: white;
     outline-color: darkred;
     background-image: url('img/fdl2018.png');
