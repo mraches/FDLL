@@ -124,6 +124,7 @@
             <h3 class="section-subheading text-muted">descripcion de las artistas o tipo de arte</h3>
           </div>
         </div>
+<!--row 1, 3 artists per row-->
         <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
@@ -132,11 +133,11 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/artista1.JPG" alt="artist test photo">
+              <img class="img-fluid" src="img/artista1.JPG" alt="Lenin Moncayo">
             </a>
             <div class="portfolio-caption">
-              <h4>artista</h4>
-              <p class="text-muted">tipo de arte</p>
+              <h4>SOMBRILLAS DE LUZ </h4>
+              <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
 
@@ -150,10 +151,11 @@
               <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>artista</h4>
-              <p class="text-muted">tipo de arte</p>
+              <h4>FUERZAS EN EQUILIBRIO </h4>
+              <p class="text-muted">Miguel Ángel Murgueytio</p>
             </div>
           </div>
+
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
               <div class="portfolio-hover">
@@ -164,10 +166,11 @@
               <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>artista</h4>
-              <p class="text-muted">tipo de arte</p>
+              <h4>ORQUÍDEAS SALVAJES</h4>
+              <p class="text-muted">Colectivo B.A.B.E.L</p>
             </div>
           </div>
+
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
               <div class="portfolio-hover">
@@ -178,10 +181,11 @@
               <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>artista</h4>
-              <p class="text-muted">tipo de arte</p>
+              <h4>PSYCODELIA ANDINA </h4>
+              <p class="text-muted">Andrés Aulestia</p>
             </div>
           </div>
+
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
               <div class="portfolio-hover">
@@ -192,10 +196,11 @@
               <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>artista</h4>
-              <p class="text-muted">tipo de arte</p>
+              <h4>PHANTOM: LO QUE NO SE VE </h4>
+              <p class="text-muted">Aquiles Jarrín</p>
             </div>
           </div>
+
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
               <div class="portfolio-hover">
@@ -206,10 +211,11 @@
               <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>artista</h4>
-              <p class="text-muted">tipo de arte</p>
+              <h4>ESTADOS DEL TIEMPO </h4>
+              <p class="text-muted">Gary Vera</p>
             </div>
           </div>
+
         </div>
       </div>
     </section>
