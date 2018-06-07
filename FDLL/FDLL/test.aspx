@@ -129,28 +129,28 @@
         <div class="row">
             <!--1-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist1">
+            <a class="portfolio-link" data-toggle="modal" href="#Moncayo">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Lenin Moncayo">              
+              <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Sombrillas de luz">              
             </a>
             <div class="portfolio-caption">
-              <h4>Sombrillas de luz </h4>
+              <h4>Sombrillas de luz</h4>
               <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
            <!--2-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist2">
+            <a class="portfolio-link" data-toggle="modal" href="#Murgueytio">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="">
+              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="Fuerzas en equilibrio">
             </a>
             <div class="portfolio-caption">
               <h4>Fuerzas en equilibrio</h4>
@@ -159,13 +159,13 @@
           </div>
           <!--3-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist3">
+            <a class="portfolio-link" data-toggle="modal" href="#Colectivo">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="">
+              <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="Orquídeas salvajes">
             </a>
             <div class="portfolio-caption">
               <h4>Orquídeas salvajes</h4>
@@ -174,13 +174,13 @@
           </div>
           <!--4-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist4">
+            <a class="portfolio-link" data-toggle="modal" href="#Aulestia">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="">
+              <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="Psycodelia andina">
             </a>
             <div class="portfolio-caption">
               <h4>Psycodelia andina</h4>
@@ -189,13 +189,13 @@
           </div>
          <!--5-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist5">
+            <a class="portfolio-link" data-toggle="modal" href="#Jarrín">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="">
+              <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="Phantom: Lo que no se ve">
             </a>
             <div class="portfolio-caption">
               <h4>Phantom: Lo que no se ve</h4>
@@ -204,13 +204,13 @@
           </div>
          <!--6-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist6">
+            <a class="portfolio-link" data-toggle="modal" href="#Vera">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>   
-              <img class="img-fluid" src="img/obras/estados-peq.jpg"  alt="">             
+              <img class="img-fluid" src="img/obras/estados-peq.jpg"  alt="Estados del tiempo">             
             </a>
             <div class="portfolio-caption">
               <h4>Estados del tiempo</h4>
@@ -223,13 +223,13 @@
         <!--7-->
           <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist1">
+            <a class="portfolio-link" data-toggle="modal" href="#JácomeEspinosa">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/ayni-peq.jpg" alt="Lenin Moncayo">              
+              <img class="img-fluid" src="img/obras/ayni-peq.jpg" alt="Ayni de luz">              
             </a>
             <div class="portfolio-caption">
               <h4>Ayni de luz</h4>
@@ -238,22 +238,22 @@
           </div>
         <!--8-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist2">
+            <a class="portfolio-link" data-toggle="modal" href="#Verdozoto">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/manos-peq.jpg" alt="">
+                <img class="img-fluid" src="img/obras/manos-peq.jpg" alt="Manos de luz">
             </a>
             <div class="portfolio-caption">
-              <h4>Manos de luz </h4>
+              <h4>Manos de luz</h4>
               <p class="text-muted">Geovanny Verdozoto</p>
             </div>
           </div>
         <!--9-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist3">
+            <a class="portfolio-link" data-toggle="modal" href="#MaiguashcaPoete">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
@@ -268,13 +268,13 @@
           </div>
         <!--10-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist4">
+            <a class="portfolio-link" data-toggle="modal" href="#VareaGuayasamín">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/gota-peq.jpg" alt="">
+                <img class="img-fluid" src="img/obras/gota-peq.jpg" alt="La gota ke derramó el vaso">
             </a>
             <div class="portfolio-caption">
               <h4>La gota ke derramó el vaso</h4>
@@ -283,13 +283,13 @@
           </div>
         <!--11-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist5">
+            <a class="portfolio-link" data-toggle="modal" href="#DíazHallo">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/huellas-peq.jpg" alt="">
+                <img class="img-fluid" src="img/obras/huellas-peq.jpg" alt="Las huellas del pasado">
             </a>
             <div class="portfolio-caption">
               <h4>Las huellas del pasado</h4>
@@ -298,16 +298,16 @@
           </div>
         <!--12-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist6">
+            <a class="portfolio-link" data-toggle="modal" href="#Knipper">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                     <!--add hover content-->
                 </div>
               </div> 
-                <img class="img-fluid" src="img/obras/brillo-sombras-peq.jpg" alt="">             
+                <img class="img-fluid" src="img/obras/brillo-sombras-peq.jpg" alt="El brillo de las sombras">             
             </a>
             <div class="portfolio-caption">
-              <h4>El brillo de las sombras </h4>
+              <h4>El brillo de las sombras</h4>
               <p class="text-muted">Daniel Knipper</p>
             </div>
           </div>
@@ -316,13 +316,13 @@
       <div class="row">
        <!--13-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist1">
+            <a class="portfolio-link" data-toggle="modal" href="#Barray">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/nido-peq.jpg" alt="Lenin Moncayo">              
+                <img class="img-fluid" src="img/obras/nido-peq.jpg" alt="Nido de luz">              
             </a>
             <div class="portfolio-caption">
               <h4>Nido de luz</h4>
@@ -331,13 +331,13 @@
           </div>
         <!--14-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist2">
+            <a class="portfolio-link" data-toggle="modal" href="#Barletta">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/Winaykay-peq.jpg" alt="">
+                <img class="img-fluid" src="img/obras/Winaykay-peq.jpg" alt="Wiñaykay">
             </a>
             <div class="portfolio-caption">
               <h4>Wiñaykay</h4>
@@ -346,13 +346,13 @@
           </div>
         <!--15-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist3">
+            <a class="portfolio-link" data-toggle="modal" href="#Langlois">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/herencia-peq.jpg" alt="">
+                <img class="img-fluid" src="img/obras/herencia-peq.jpg" alt="Herencia">
             </a>
             <div class="portfolio-caption">
               <h4>Herencia</h4>
@@ -361,13 +361,13 @@
           </div>
         <!--16-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist4">
+            <a class="portfolio-link" data-toggle="modal" href="#Moreaux">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-                <img class="img-fluid" src="img/obras/expresiones-peq.jpg" alt="">
+                <img class="img-fluid" src="img/obras/expresiones-peq.jpg" alt="Expresiones">
             </a>
             <div class="portfolio-caption">
               <h4>Expresiones</h4>
@@ -376,13 +376,13 @@
           </div>
         <!--17-->
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist5">
+            <a class="portfolio-link" data-toggle="modal" href="#Martine">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/lumineoles-peq.jpg" alt="">
+              <img class="img-fluid" src="img/obras/lumineoles-peq.jpg" alt="Lumineoles">
             </a>
             <div class="portfolio-caption">
               <h4>Lumineoles</h4>
