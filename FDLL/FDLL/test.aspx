@@ -48,7 +48,7 @@
               <a class="nav-link js-scroll-trigger" href="#obras">Obras</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#proceso">Proceso</a>
+              <a class="nav-link js-scroll-trigger" href="#proceso">El Proceso</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#equipo">Equipo</a>
@@ -81,7 +81,9 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Consejos</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.
+                <br /> Para toda de la informacion en consejos, timbre aqui.
+            </h3>
           </div>
         </div>
         <div class="row text-center">
@@ -90,13 +92,8 @@
                 <img src="img/seguridad.png" style="height:130px; width:130px" id="img_seguridadicon" />
             </span>
             <h4 class="service-heading">Seguridad</h4>
-            <p class="text-muted">Efectivos de la Policía Metropolitana, de la Policía Nacional y del Cuerpo de 
-                Bomberos estarán distribuidos en todo el sector. En caso de tener cualquier emergencia, son las personas 
-                a las que debe dirigirse. Si se necesita atención urgente, llame inmediatamente al 911. Cuidar los unos 
-                de los otros es la mejor fórmula de seguridad para esta gran reunión. El consumo de alcohol en el
-                 espacio público está prohibido y es sancionado con multas. En todo el perímetro se ubicarán baterías 
-                sanitarias. Es un compromiso de todos y todas mantener al Centro Histórico impecablemente limpio durante 
-                la Fiesta de la Luz.</p>
+            <p class="text-muted">En caso de tener cualquier emergencia, la Policía Metropolitana, 
+                de la Policía Nacional y del Cuerpo de Bomberos son las personas a las que debe dirigirse.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -104,24 +101,19 @@
             </span>
             <h4 class="service-heading">Movilidad</h4>
             <p class="text-muted"> Durante los cinco días de la Fiesta de la Luz, el tránsito vehicular por el 
-                Centro Histórico se verá restringido. Toda la zona de intervención del programa estará peatonalizada 
-                desde las 18h00, una hora antes del inicio de los espectáculos. No se habilitarán ni se permitirá el
-                 acceso a los parqueaderos ubicados dentro del perímetro. Se recomienda encarecidamente emplear 
-                transporte público. El sistema Trolebús llegará hasta la parada El Ejido en sentido norte-sur y hasta 
-                el andén de La Recoleta en dirección sur-norte. Los corredores viales de la Ecovía y de la Metrovía 
-                funcionarán normalmente. Las tarifas del transporte público son las habituales.</p>
+                Centro Histórico se verá restringido.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
                 <img src="img/consejos.png" style="height:117px; width:149px" id="img_consejosicon" />
             </span>
             <h4 class="service-heading">Consejos</h4>
-            <p class="text-muted">Se establecerá un sentido
-                 de flujo unidireccional para las calles, es muy importante respetarlo. No se recomienda venir con 
-                menores de 5 años. Es recomendable qu los niños, adolescentes y personas de la tercera edad lleven 
-                una plica o tarjeta con sus datos y teléfonos de referencia.</p>
+            <p class="text-muted">Se establecerá un sentido de flujo unidireccional para las calles, es muy 
+                importante respetarlo.</p>
           </div>
         </div>
+           <h3 class="section-subheading text-muted" style="text-align:center">Para toda de la informacion en 
+               consejos, timbre aqui.</h3>
       </div>
     </section>
 
@@ -224,19 +216,21 @@
       </div>
     </section>
 
-    <!-- proceso -->
+    <!--el proceso -->
     <section id="proceso">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">EL PROCESO</h2>
-            <h3 class="section-subheading text-muted">Tres años de gestión permanente</h3>
+            <h3 class="section-subheading text-muted">Tres años de gestión permanente. 
+                <br />Para toda la informacion en El Proceso, timbre aqui.</h3>
           </div>
         </div>
 
         <div class="row">
           <div class="col-lg-12">
             <ul class="timeline">
+<!--panel and image 1-->
               <li>
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
@@ -256,18 +250,18 @@
                   </div>
                 </div>
               </li>
-
+<!--panel and image 2-->
               <li class="timeline-inverted" style="text-align:right">
-                <div class="timeline-imagesmall">
-                  <img class="rounded-circle img-fluid float-left" src="img/about/2.jpg" alt="">
+                <div class="timeline-image" style="max-width:100px; max-height:100px">
+                  <img class="rounded-circle img-fluid float-left" style="max-width:140px" src="img/about/2.jpg" alt="">
                 </div>
-                <div class="timeline-panelinverted">
+                <div class="timeline-panelinverted"style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
                     <h4>Economía</h4>
                     <h4 class="subheading">Un impacto directo</h4>
                   </div>
-                  <div class="timeline-bodyinverted">
-                    <p class="text-muted" style="max-width:450px">2 millones de personas generaron un movimiento económico de aproximadamente
+                  <div class="timeline-body">
+                    <p class="text-muted">2 millones de personas generaron un movimiento económico de aproximadamente
                          USD 15 millones durante la Fiesta de la Luz 2017. En la primera edición, 1,2 milllones de 
                         visitantes activaron con cerca de USD 10 millones la economía de la ciudad, especialmente en el
                          Centro Histórico. La ciudad invierte en sus artistas y creadores: en 2018, serán USD 235 mil 
@@ -276,7 +270,7 @@
                   </div>
                 </div>
               </li>
-
+<!--panel and image 3-->
               <li>
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
@@ -297,17 +291,18 @@
                   </div>
                 </div>
               </li>
-              <li class="timeline-inverted" style="text-align:left">
-                <div class="timeline-imagesmall">
-                  <img class="rounded-circle img-fluid float-left" src="img/about/4.jpg" alt="">
+<!--panel and image 4-->
+              <li class="timeline-inverted">
+                <div class="timeline-image" style="max-width:100px; max-height:100px">
+                  <img class="rounded-circle img-fluid float-left" style="max-width:140px" src="img/about/4.jpg" alt="">
                 </div>
-                <div class="timeline-panelinverted" style="text-align:right">
+                <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
                     <h4>Espacio público</h4>
                     <h4 class="subheading">Vivir la ciudad</h4>
                   </div>
-                  <div class="timeline-bodyinverted">
-                    <p class="text-muted" style="max-width:450px">La ocupación del espacio público con experiencias culturales es un principio
+                  <div class="timeline-body">
+                    <p class="text-muted">La ocupación del espacio público con experiencias culturales es un principio
                          transversal de los derechos culturales de Quito. Es una de las principales razones de ser de la 
                          Fiesta de la Luz. Son plazas y fachadas del Quito patrimonial, del Centro Histórico. 
                         La presencia ciudadana masiva en las calles durante esas noches es un proceso inédito de 
@@ -316,6 +311,7 @@
                   </div>
                 </div>
               </li>
+<!--panel and image 5-->
               <li class="timeline-inverted">
                 <div class="timeline-image">
                   <h4>2018
@@ -341,10 +337,11 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-              <h4>nombre</h4>
-              <p class="text-muted">Lead Designer</p>
-              <ul class="list-inline social-buttons">
+              <img class="mx-auto rounded-circle" src="img/Equipo/jfz.png" alt="">
+              <h4>Jean-François Zurawik</h4>
+              <p class="text-muted">Director artístico <br />
+                         Fiesta de las Luces de Lyon</p>
+              <!--<ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fa fa-twitter"></i>
@@ -360,15 +357,16 @@
                     <i class="fa fa-linkedin"></i>
                   </a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-              <h4>nombre</h4>
-              <p class="text-muted">Lead Marketer</p>
-              <ul class="list-inline social-buttons">
+              <img class="mx-auto rounded-circle" src="img/Equipo/slp.png" alt="">
+              <h4>Stalin Lucero Palma</h4>
+              <p class="text-muted">Dirección técnica 
+                  <br /> Secretaría de Cultura </p>
+              <!--<ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fa fa-twitter"></i>
@@ -384,34 +382,37 @@
                     <i class="fa fa-linkedin"></i>
                   </a>
                 </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
-              <h4>nombre</h4>
-              <p class="text-muted">Lead Developer</p>
-              <ul class="list-inline social-buttons">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fa fa-linkedin"></i>
-                  </a>
-                </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="img/Equipo/pcv.png" alt="">
+              <h4>Pablo Corral Vega</h4>
+              <p class="text-muted">Secretario de Cultura 
+                       <br /> Municipio de Quito </p>
+              <!--<ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fa fa-facebook"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fa fa-linkedin"></i>
+                  </a>
+                </li>
+              </ul>-->
+            </div>
+          </div>
+
+         
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>

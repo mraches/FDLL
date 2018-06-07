@@ -107,6 +107,9 @@
     <Content Include="font-awesome.css" />
     <Content Include="font-awesome.min.css" />
     <Content Include="img\consejos.png" />
+    <Content Include="img\Equipo\jfz.png" />
+    <Content Include="img\Equipo\pcv.png" />
+    <Content Include="img\Equipo\slp.png" />
     <Content Include="img\fbsocial.png" />
     <Content Include="img\fdl2018.png" />
     <Content Include="img\flickrsocial.png" />
