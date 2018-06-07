@@ -107,6 +107,12 @@
     <Content Include="font-awesome.css" />
     <Content Include="font-awesome.min.css" />
     <Content Include="img\Consejos\consejos.png" />
+    <Content Include="img\el-proceso-2016.jpg" />
+    <Content Include="img\el-proceso-2017.jpg" />
+    <Content Include="img\el-proceso-2018.jpg" />
+    <Content Include="img\el-proceso-espacio-publico.jpg" />
+    <Content Include="img\el-proceso-impacto.jpg" />
+    <Content Include="img\el-proceso-innovacion.jpg" />
     <Content Include="img\Equipo\equipo-stalin.png" />
     <Content Include="img\Equipo\jfz.png" />
     <Content Include="img\Equipo\pcv.png" />

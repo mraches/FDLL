@@ -233,7 +233,7 @@
 <!--panel and image 1-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/el-proceso-2016.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -253,7 +253,7 @@
 <!--panel and image 2-->
               <li class="timeline-inverted" style="text-align:right">
                 <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid float-left" style="max-width:140px" src="img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/el-proceso-impacto.jpg" alt="">
                 </div>
                 <div class="timeline-panelinverted"style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
@@ -273,7 +273,7 @@
 <!--panel and image 3-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/el-proceso-2017.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -294,7 +294,7 @@
 <!--panel and image 4-->
               <li class="timeline-inverted">
                 <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid float-left" style="max-width:140px" src="img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/el-proceso-espacio-publico.jpg" alt="">
                 </div>
                 <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
@@ -322,11 +322,11 @@
 <!--panel and image 5-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/el-proceso-2018.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2017</h4>
+                    <h4>2018</h4>
                     <h4 class="subheading">Quito, ciudad luz</h4>
                   </div>
                   <div class="timeline-body">
@@ -340,10 +340,10 @@
                   </div>
                 </div>
               </li>
-<!--panel and image 5-->
+<!--panel and image 6-->
               <li class="timeline-inverted">
                 <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid float-left" style="max-width:140px" src="img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid"src="img/el-proceso-innovacion.jpg" alt="">
                 </div>
                 <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
                   <div class="timeline-heading">
@@ -360,6 +360,7 @@
                   </div>
                 </div>
               </li>
+
             </ul>
           </div>
         </div>
