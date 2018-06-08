@@ -76,7 +76,7 @@
     </header>
 
     <!-- Consejos -->
-    <section id="consejos">
+    <section id="consejos" style="padding-top:15px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -104,29 +104,31 @@
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
-                <img src="img/Consejos/consejos.png" style="height:117px; width:149px" id="img_consejosicon" />
+                <img src="img/Consejos/consejos.png" style="height:117px; width:160px" id="img_consejosicon" />
             </span>
             <h4 class="service-heading">Consejos</h4>
             <p class="text-muted">Se establecerá un sentido de flujo unidireccional para las calles, es muy 
                 importante respetarlo.</p>
           </div>
         </div>
-           <h3 class="section-subheading text-muted" style="text-align:center">Toda la informacion aqui.</h3>
+           <h3 class="section-subheading text-muted" style="text-align:center">
+               <a>Toda la informacion aqui.</a></h3>
       </div>
     </section>
 
     <!-- Obras -->
-    <section class="bg-light" id="obras">
+    <section class="bg-light" id="obras" style="padding-top:15px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Obras</h2>
-            <h3 class="section-subheading text-muted">descripcion de las artistas o tipo de arte</h3>
+            <h3 class="section-subheading text-muted"><a class="portfolio-link" data-toggle="modal" 
+                href="#mapadeobras">Mapa de obras</a></h3>
           </div>
         </div>
 
 <!--row 1, 6 artists per row-->
-        <div class="row">
+        <div class="row" style="text-align:center;">
             <!--2-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Moncayo">
@@ -220,7 +222,7 @@
           </div>
         </div>                      
    <!--Row 2, artists 7-12-->     
-        <div class="row">
+        <div class="row" style="text-align:center;">
        <!--8-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Murgueytio">
@@ -315,7 +317,7 @@
 
         </div>
     <!--row 3, artists 13-18-->
-      <div class="row">
+      <div class="row" style="text-align:center;">
          <!--14-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Jarrín">
@@ -413,7 +415,7 @@
     </section>
 
     <!--el proceso -->
-    <section id="proceso">
+    <section id="proceso" style="padding-top:15px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -562,7 +564,7 @@
     </section>
 
     <!-- Equipo -->
-    <section class="bg-light" id="equipo">
+    <section class="bg-light" id="equipo" style="padding-top:15px; padding-bottom:15px">
       <div class="container">
 
         <div class="row">
@@ -664,6 +666,7 @@
             <p class="large text-muted">nombre <br />nombre <br />nombre <br />nombre 
           </div>
        </div>
+    </div>
     </section>
 
     <!-- Clients -->
@@ -692,10 +695,11 @@
           </div>
         </div>
       </div>
+    
     </section>
 
     <!-- Contacto -->
-    <section id="contacto">
+    <section id="contacto" style="padding-top:15px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -1398,7 +1402,33 @@
         </div>
       </div>
     </div>
-   
+    <!-- obras pop up -->
+    <div class="portfolio-modal modal fade" id="mapadeobras" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Mapa de obras</h2>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px"
+                      src="img/obras/MAPA-GENERAL.png" alt="mapa de obras" />                 
+                  <a href="mapageneral.pdf"" class="btn btn-primary" data-dismiss="modal" type="button">
+                    Descargar</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
    <!-- Bootstrap core JavaScript -->
     

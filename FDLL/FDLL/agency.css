@@ -6,7 +6,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    border-image:url('img/finalborder.png');
+   
 }
 
 p {
@@ -319,6 +319,7 @@ header.masthead .intro-text .intro-heading {
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
+ 
     
   }
 }
