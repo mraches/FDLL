@@ -431,7 +431,9 @@
 <!--panel and image 1-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-2016.jpg" alt="">
+                  <img class="rounded-circle img-fluid"
+                       src="img/ElProceso/el-proceso-2016.jpg" 
+                       alt="Fiesta de La Luz 2016">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -449,11 +451,13 @@
                 </div>
               </li>
 <!--panel and image 2-->
-              <li class="timeline-inverted" style="text-align:right">
-                <div class="timeline-image" style="max-width:100px; max-height:100px">
-                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-impacto.jpg" alt="">
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <img class="rounded-circle img-fluid"
+                       src="img/ElProceso/el-proceso-impacto.jpg" 
+                      alt="Impact on Economia">
                 </div>
-                <div class="timeline-panelinverted"style="text-align:left; max-width:400px">
+                <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Economía</h4>
                     <h4 class="subheading">Un impacto directo</h4>
@@ -491,10 +495,10 @@
               </li>
 <!--panel and image 4-->
               <li class="timeline-inverted">
-                <div class="timeline-image" style="max-width:100px; max-height:100px">
+                <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-espacio-publico.jpg" alt="">
                 </div>
-                <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
+                <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Espacio público</h4>
                     <h4 class="subheading">Vivir la ciudad</h4>
@@ -509,14 +513,6 @@
                   </div>
                 </div>
               </li>
-<!--panel and image 5-->
-              <!--<li class="timeline-inverted">
-                <div class="timeline-image">
-                  <h4>2018
-                    <br>La fiesta
-                    <br>crece</h4>
-                </div>
-              </li>-->
 <!--panel and image 5-->
               <li>
                 <div class="timeline-image">
@@ -539,10 +535,10 @@
               </li>
 <!--panel and image 6-->
               <li class="timeline-inverted">
-                <div class="timeline-image" style="max-width:100px; max-height:100px">
+                <div class="timeline-image">
                   <img class="rounded-circle img-fluid"src="img/ElProceso/el-proceso-innovacion.jpg" alt="">
                 </div>
-                <div class="timeline-panelinverted" style="text-align:left; max-width:400px">
+                <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Innovación</h4>
                     <h4 class="subheading">Diálogos creativos</h4>
