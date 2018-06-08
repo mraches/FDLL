@@ -127,7 +127,7 @@
 
 <!--row 1, 6 artists per row-->
         <div class="row">
-            <!--1-->
+            <!--2-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Moncayo">
               <div class="portfolio-hover">
@@ -142,67 +142,7 @@
               <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
-           <!--2-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Murgueytio">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="Fuerzas en equilibrio">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Fuerzas en equilibrio</h4>
-              <p class="text-muted">Miguel Ángel Murgueytio</p>
-            </div>
-          </div>
-          <!--3-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Colectivo">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-              <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="Orquídeas salvajes">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Orquídeas salvajes</h4>
-              <p class="text-muted">Colectivo B.A.B.E.L</p>
-            </div>
-          </div>
-          <!--4-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Aulestia">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-              <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="Psycodelia andina">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Psycodelia andina</h4>
-              <p class="text-muted">Andrés Aulestia</p>
-            </div>
-          </div>
-         <!--5-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Jarrín">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-              <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="Phantom: Lo que no se ve">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Phantom: Lo que no se ve</h4>
-              <p class="text-muted">Aquiles Jarrín</p>
-            </div>
-          </div>
-         <!--6-->
+         <!--3-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Vera">
               <div class="portfolio-hover">
@@ -217,149 +157,8 @@
               <p class="text-muted">Gary Vera</p>
             </div>
           </div>
-        </div>
-   <!--Row 2, artists 7-12-->     
-        <div class="row">
-        <!--7-->
-          <div class="row">
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#JácomeEspinosa">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-              <img class="img-fluid" src="img/obras/ayni-peq.jpg" alt="Ayni de luz">              
-            </a>
-            <div class="portfolio-caption">
-              <h4>Ayni de luz</h4>
-              <p class="text-muted">Felipe Jácome y Daniel Espinosa</p>
-            </div>
-          </div>
-        <!--8-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Verdozoto">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/manos-peq.jpg" alt="Manos de luz">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Manos de luz</h4>
-              <p class="text-muted">Geovanny Verdozoto</p>
-            </div>
-          </div>
-        <!--9-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#MaiguashcaPoete">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/cordillera-peq.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>La canción de la cordillera</h4>
-              <p class="text-muted">Mesías Maiguashca y Carlos Poete</p>
-            </div>
-          </div>
-        <!--10-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#VareaGuayasamín">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/gota-peq.jpg" alt="La gota ke derramó el vaso">
-            </a>
-            <div class="portfolio-caption">
-              <h4>La gota ke derramó el vaso</h4>
-              <p class="text-muted">Miguel Varea y Dayuma Guayasamín</p>
-            </div>
-          </div>
-        <!--11-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#DíazHallo">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/huellas-peq.jpg" alt="Las huellas del pasado">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Las huellas del pasado</h4>
-              <p class="text-muted">Édison Díaz y Alejandro Hallo</p>
-            </div>
-          </div>
-        <!--12-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Knipper">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                    <!--add hover content-->
-                </div>
-              </div> 
-                <img class="img-fluid" src="img/obras/brillo-sombras-peq.jpg" alt="El brillo de las sombras">             
-            </a>
-            <div class="portfolio-caption">
-              <h4>El brillo de las sombras</h4>
-              <p class="text-muted">Daniel Knipper</p>
-            </div>
-          </div>
-        </div>
-    <!--row 3, artists 13-18-->
-      <div class="row">
-       <!--13-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Barray">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/nido-peq.jpg" alt="Nido de luz">              
-            </a>
-            <div class="portfolio-caption">
-              <h4>Nido de luz</h4>
-              <p class="text-muted">Erik Barray (Música de Nelson García)</p>
-            </div>
-          </div>
-        <!--14-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Barletta">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/Winaykay-peq.jpg" alt="Wiñaykay">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Wiñaykay</h4>
-              <p class="text-muted">Salvatore Barletta</p>
-            </div>
-          </div>
-        <!--15-->
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#Langlois">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <!--add hover content-->
-                </div>
-              </div>
-                <img class="img-fluid" src="img/obras/herencia-peq.jpg" alt="Herencia">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Herencia</h4>
-              <p class="text-muted">Laurent Langlois</p>
-            </div>
-          </div>
-        <!--16-->
+        
+         <!--4-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Moreaux">
               <div class="portfolio-hover">
@@ -374,7 +173,85 @@
               <p class="text-muted">Yves Moreaux</p>
             </div>
           </div>
-        <!--17-->
+        <!--5-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Barray">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/nido-peq.jpg" alt="Nido de luz">              
+            </a>
+            <div class="portfolio-caption">
+              <h4>Nido de luz</h4>
+              <p class="text-muted">Erik Barray (Música de Nelson García)</p>
+            </div>
+          </div>
+        <!--6-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Knipper">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                    <!--add hover content-->
+                </div>
+              </div> 
+                <img class="img-fluid" src="img/obras/brillo-sombras-peq.jpg" alt="El brillo de las sombras">             
+            </a>
+            <div class="portfolio-caption">
+              <h4>El brillo de las sombras</h4>
+              <p class="text-muted">Daniel Knipper</p>
+            </div>
+          </div>
+        <!--7-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Langlois">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/herencia-peq.jpg" alt="Herencia">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Herencia</h4>
+              <p class="text-muted">Laurent Langlois</p>
+            </div>
+          </div>
+        </div>                      
+   <!--Row 2, artists 7-12-->     
+        <div class="row">
+       <!--8-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Murgueytio">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="Fuerzas en equilibrio">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Fuerzas en equilibrio</h4>
+              <p class="text-muted">Miguel Ángel Murgueytio</p>
+            </div>
+          </div>
+        <!--9-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#DíazHallo">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/huellas-peq.jpg" alt="Las huellas del pasado">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Las huellas del pasado</h4>
+              <p class="text-muted">Édison Díaz y Alejandro Hallo</p>
+            </div>
+          </div>
+        <!--10-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Martine">
               <div class="portfolio-hover">
@@ -389,25 +266,150 @@
               <p class="text-muted">Christophe Martine</p>
             </div>
           </div>
-        <!--18-->
-           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#artist5">
+        <!--11-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Aulestia">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/lumineoles-peq.jpg" alt="">
+              <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="Psycodelia andina">
             </a>
             <div class="portfolio-caption">
-              <h4>Lumineoles</h4>
-              <p class="text-muted">Christophe Martine</p>
+              <h4>Psycodelia andina</h4>
+              <p class="text-muted">Andrés Aulestia</p>
+            </div>
+          </div>
+        <!--12-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#VareaGuayasamín">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/gota-peq.jpg" alt="La gota ke derramó el vaso">
+            </a>
+            <div class="portfolio-caption">
+              <h4>La gota ke derramó el vaso</h4>
+              <p class="text-muted">Miguel Varea y Dayuma Guayasamín</p>
+            </div>
+          </div>      
+        <!--13-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Barletta">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/Winaykay-peq.jpg" alt="Wiñaykay">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Wiñaykay</h4>
+              <p class="text-muted">Salvatore Barletta</p>
+            </div>
+          </div>
+
+
+        </div>
+    <!--row 3, artists 13-18-->
+      <div class="row">
+         <!--14-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Jarrín">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+              <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="Phantom: Lo que no se ve">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Phantom: Lo que no se ve</h4>
+              <p class="text-muted">Aquiles Jarrín</p>
+            </div>
+          </div>
+    <!--15-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Verdozoto">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/manos-peq.jpg" alt="Manos de luz">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Manos de luz</h4>
+              <p class="text-muted">Geovanny Verdozoto</p>
+            </div>
+          </div>
+        <!--16-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Colectivo">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+              <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="Orquídeas salvajes">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Orquídeas salvajes</h4>
+              <p class="text-muted">Colectivo B.A.B.E.L</p>
+            </div>
+          </div>
+    <!--17-->
+           <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#Mena">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+              <img class="img-fluid" src="img/obras/polillas-peque.jpg" alt="Polillas"/>
+            </a>
+            <div class="portfolio-caption">
+              <h4>Polillas</h4>
+              <p class="text-muted">IMP- Belén Mena</p>
+            </div>
+          </div>
+        <!--18-->
+
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#JácomeEspinosa">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+              <img class="img-fluid" src="img/obras/ayni-peq.jpg" alt="Ayni de luz">              
+            </a>
+            <div class="portfolio-caption">
+              <h4>Ayni de luz</h4>
+              <p class="text-muted">Felipe Jácome y Daniel Espinosa</p>
+            </div>
+          </div>
+    <!--19-->
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#MaiguashcaPoete">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <!--add hover content-->
+                </div>
+              </div>
+                <img class="img-fluid" src="img/obras/cordillera-peq.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>La canción de la cordillera</h4>
+              <p class="text-muted">Mesías Maiguashca y Carlos Poete</p>
             </div>
           </div>
 
         </div>
       </div>
-     </div>
     </section>
 
     <!--el proceso -->
@@ -779,7 +781,7 @@
 
     <!-- Portfolio Modals -->
 
-    <!-- Modal 1 -->
+    <!-- Modal 2 -->
     <div class="portfolio-modal modal fade" id="Moncayo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -815,7 +817,7 @@
       </div>
     </div>
 
- <!-- Modal 2 -->
+ <!-- Modal 8 -->
     <div class="portfolio-modal modal fade" id="Murgueytio" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -851,7 +853,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 3 -->
+ <!-- Modal 16 -->
     <div class="portfolio-modal modal fade" id="Colectivo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -885,7 +887,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 4 -->
+ <!-- Modal 11 -->
     <div class="portfolio-modal modal fade" id="Aulestia" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -919,7 +921,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 5 -->
+ <!-- Modal 14 -->
     <div class="portfolio-modal modal fade" id="Jarrín" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -953,7 +955,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 6 -->
+ <!-- Modal 3 -->
     <div class="portfolio-modal modal fade" id="Vera" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -987,7 +989,7 @@
         </div>
       </div>
     </div>
-<!-- Modal 7 -->
+<!-- Modal 18 -->
     <div class="portfolio-modal modal fade" id="JácomeEspinosa" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1022,7 +1024,7 @@
       </div>
     </div>
 
- <!-- Modal 8 -->
+ <!-- Modal 15 -->
     <div class="portfolio-modal modal fade" id="Verdozoto" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1056,7 +1058,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 9 -->
+ <!-- Modal 19 -->
     <div class="portfolio-modal modal fade" id="MaiguashcaPoete" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1090,7 +1092,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 10 -->
+ <!-- Modal 12 -->
     <div class="portfolio-modal modal fade" id="VareaGuayasamín" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1124,7 +1126,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 11 -->
+ <!-- Modal 9 -->
     <div class="portfolio-modal modal fade" id="DíazHallo" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1158,7 +1160,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 12 -->
+ <!-- Modal 6 -->
     <div class="portfolio-modal modal fade" id="Knipper" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1192,7 +1194,7 @@
         </div>
       </div>
     </div>
-<!-- Modal 13 -->
+<!-- Modal 5 -->
     <div class="portfolio-modal modal fade" id="Barray" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1227,7 +1229,7 @@
       </div>
     </div>
 
- <!-- Modal 14 -->
+ <!-- Modal 13 -->
     <div class="portfolio-modal modal fade" id="Barletta" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1261,7 +1263,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 15 -->
+ <!-- Modal 7 -->
     <div class="portfolio-modal modal fade" id="Langlois" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1295,7 +1297,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 16 -->
+ <!-- Modal 4 -->
     <div class="portfolio-modal modal fade" id="Moreaux" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1328,7 +1330,7 @@
         </div>
       </div>
     </div>
- <!-- Modal 17 -->
+ <!-- Modal 10 -->
     <div class="portfolio-modal modal fade" id="Martine" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -1362,8 +1364,8 @@
         </div>
       </div>
     </div>
- <!-- Modal 18 -->
-    <div class="portfolio-modal modal fade" id="artista18" tabindex="-1" role="dialog" aria-hidden="true">
+ <!-- Modal 17 -->
+    <div class="portfolio-modal modal fade" id="Mena" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="close-modal" data-dismiss="modal">
@@ -1376,13 +1378,13 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Sombrillas de luz</h2>
-                  <p class="item-intro text-muted">Lenin Moncayo</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/sombrillas-big.jpg" alt="Sombrillas de luz">
-                  <p>La obra está compuesta por 140 sombrillas blancas iluminadas con luces led. Cada sombrilla se convierte en un punto
-                       autónomo de luz, con variación cromática sincronizada con la composición musical de Diego Narváez. </p>
+                  <h2 class="text-uppercase">Polillas</h2>
+                  <p class="item-intro text-muted">IMP- Belén Mena</p>
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px"
+                       src="img/obras/polillas-big.jpg" alt="Polillas" />
+                  <p>descripcion </p>
                   <ul class="list-inline">
-                    <li>Calle García Moreno</li>
+                    <li>La Guaragua</li>
                     <li>mas info</li>
                     <li>mas info</li>
                   </ul>
