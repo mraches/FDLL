@@ -13,19 +13,19 @@
     <title>Fiesta de La Luz 2018</title>
 
     <!-- Bootstrap core CSS -->
-      <link href="bootstrap.min.css" rel="stylesheet" />
+      <link href="css/bootstrap.min.css" rel="stylesheet" />
+     
 
     <!-- Custom fonts for this template -->
-      <link href="font-awesome.min.css" rel="stylesheet" />
+     <link href="css/font-awesome.min.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
-      <link href="agency.min.css" rel="stylesheet" />
-      <link href="agency.css" rel="stylesheet" />
-      
+      <link href="css/agency.min.css" rel="stylesheet" />
+      <link href="css/agency.css" rel="stylesheet" />
 
   </head>
 
@@ -65,7 +65,7 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead">
+    <header class="masthead" style="width:100%">
       <div class="container">
         <div class="intro-text">
           <!--<div class="intro-lead-in">Bienvenidos a Quito</div>
@@ -1431,22 +1431,18 @@
     </div>
 
    <!-- Bootstrap core JavaScript -->
-    
-<script src="jquery.min.js"></script>
-<script src="bootstrap.bundle.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-<script src="jquery.easing.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
 
     <!-- Contact form JavaScript -->
-<script src="jqBootstrapValidation.js"></script>
-<script src="contact_me.js"></script>
- 
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    
-<script src="agency.min.js"></script>
+<script src="js/agency.min.js"></script>
 
   </body>
 

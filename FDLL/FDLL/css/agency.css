@@ -70,12 +70,12 @@ section h3.section-subheading {
 .btn-xl {
   font-size: 18px;
   padding: 20px 40px;
-  background-color:darkred;
+  background-color:#d51c57;
 }
 
 .btn-primary {
-  background-color: darkred;
-  border-color: darkred;
+  background-color: #d51c57;
+  border-color: #d51c57;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -103,7 +103,7 @@ img::selection {
 }
 
 img::-moz-selection {
-  background: transparent;
+  background: black;
 }
 
 #mainNav {
@@ -128,7 +128,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #f7ce28;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -141,7 +141,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fec503;
+  color: #f7ce28;
 }
 
 @media (min-width: 992px) {
@@ -162,6 +162,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
+    
   }
   #mainNav.navbar-shrink {
     padding-top: 0;
@@ -171,6 +172,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
     padding: 12px 0;
+    
   }
 }
 
