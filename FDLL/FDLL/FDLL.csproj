@@ -193,6 +193,7 @@
     <Content Include="bootstrap.js.map" />
     <Content Include="bootstrap.min.js.map" />
     <Content Include="mapageneral.pdf" />
+    <None Include="Properties\PublishProfiles\fll2018 - Web Deploy.pubxml" />
     <None Include="scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="scripts\jquery-3.3.1.js" />
     <Content Include="scripts\jquery-3.3.1.min.js" />
