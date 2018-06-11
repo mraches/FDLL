@@ -13,11 +13,11 @@
     <title>Fiesta de La Luz 2018</title>
 
     <!-- Bootstrap core CSS -->
-      <link href="css/bootstrap.min.css" rel="stylesheet" />
-     
+  
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Custom fonts for this template -->
-     <link href="css/font-awesome.min.css" rel="stylesheet" />
+      <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -1431,12 +1431,10 @@
     </div>
 
    <!-- Bootstrap core JavaScript -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.bundle.min.js"></script>
-
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Plugin JavaScript -->
-<script src="js/jquery.easing.min.js"></script>
-
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
     <!-- Contact form JavaScript -->
 <script src="js/jqBootstrapValidation.js"></script>
 <script src="js/contact_me.js"></script>
