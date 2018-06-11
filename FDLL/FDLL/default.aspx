@@ -431,7 +431,7 @@
 <!--panel and image 1-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid"
+                  <img class="rounded-circle img-fluid" style="max-height:250px; max-width:250px; width:100%"
                        src="img/ElProceso/el-proceso-2016.jpg" 
                        alt="Fiesta de La Luz 2016">
                 </div>
@@ -453,7 +453,7 @@
 <!--panel and image 2-->
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid"
+                  <img class="rounded-circle img-fluid" style="max-height:100px; max-width:100px; width:100%"
                        src="img/ElProceso/el-proceso-impacto.jpg" 
                       alt="Impact on Economia">
                 </div>
@@ -475,7 +475,8 @@
 <!--panel and image 3-->
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-2017.jpg" alt="">
+                  <img class="rounded-circle img-fluid" style="max-height:250px; max-width:250px; width:100%"
+                       src="img/ElProceso/el-proceso-2017.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -496,7 +497,8 @@
 <!--panel and image 4-->
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-espacio-publico.jpg" alt="">
+                  <img class="rounded-circle img-fluid"  style="max-height:100px; max-width:100px; width:100%"
+                      src="img/ElProceso/el-proceso-espacio-publico.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -515,8 +517,9 @@
               </li>
 <!--panel and image 5-->
               <li>
-                <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/ElProceso/el-proceso-2018.jpg" alt="">
+                <div class="timeline-image"> 
+                  <img class="rounded-circle img-fluid" style="max-height:250px; max-width:250px; width:100%"
+                      src="img/ElProceso/el-proceso-2018.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -536,7 +539,8 @@
 <!--panel and image 6-->
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid"src="img/ElProceso/el-proceso-innovacion.jpg" alt="">
+                  <img class="rounded-circle img-fluid"src="img/ElProceso/el-proceso-innovacion.jpg" style="max-height:100px; max-width:100px; width:100%"
+                       alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
