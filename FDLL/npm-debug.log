@@ -1,0 +1,102 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Users\\mraches\\Source\\Repos\\FDLL2\\FDLL\\packages\\Node.js.5.3.0\\node.exe',
+1 verbose cli   'C:\\Users\\mraches\\Source\\Repos\\FDLL2\\FDLL\\packages\\Npm.js.1.3.15.7\\tools\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'gulp',
+1 verbose cli   'gulp-util',
+1 verbose cli   '--save-dev' ]
+2 info using npm@1.3.15
+3 info using node@v5.3.0
+4 warn package.json someProj@0.0.0 No description
+5 warn package.json someProj@0.0.0 No repository field.
+6 warn package.json someProj@0.0.0 No README data
+7 verbose readDependencies using package.json deps
+8 verbose cache add [ 'gulp', null ]
+9 verbose cache add name=undefined spec="gulp" args=["gulp",null]
+10 verbose parsed url Url {
+10 verbose parsed url   protocol: null,
+10 verbose parsed url   slashes: null,
+10 verbose parsed url   auth: null,
+10 verbose parsed url   host: null,
+10 verbose parsed url   port: null,
+10 verbose parsed url   hostname: null,
+10 verbose parsed url   hash: null,
+10 verbose parsed url   search: null,
+10 verbose parsed url   query: null,
+10 verbose parsed url   pathname: 'gulp',
+10 verbose parsed url   path: 'gulp',
+10 verbose parsed url   href: 'gulp' }
+11 verbose cache add [ 'gulp-util', null ]
+12 verbose cache add name=undefined spec="gulp-util" args=["gulp-util",null]
+13 verbose parsed url Url {
+13 verbose parsed url   protocol: null,
+13 verbose parsed url   slashes: null,
+13 verbose parsed url   auth: null,
+13 verbose parsed url   host: null,
+13 verbose parsed url   port: null,
+13 verbose parsed url   hostname: null,
+13 verbose parsed url   hash: null,
+13 verbose parsed url   search: null,
+13 verbose parsed url   query: null,
+13 verbose parsed url   pathname: 'gulp-util',
+13 verbose parsed url   path: 'gulp-util',
+13 verbose parsed url   href: 'gulp-util' }
+14 silly lockFile 9750c68d-gulp gulp
+15 verbose lock gulp C:\Users\mraches\AppData\Roaming\npm-cache\9750c68d-gulp.lock
+16 silly lockFile 77fa12e5-gulp-util gulp-util
+17 verbose lock gulp-util C:\Users\mraches\AppData\Roaming\npm-cache\77fa12e5-gulp-util.lock
+18 silly lockFile 9750c68d-gulp gulp
+19 silly lockFile 9750c68d-gulp gulp
+20 silly lockFile 77fa12e5-gulp-util gulp-util
+21 silly lockFile 77fa12e5-gulp-util gulp-util
+22 verbose addNamed [ 'gulp', '' ]
+23 verbose addNamed [ null, '*' ]
+24 silly lockFile 72f4391e-gulp gulp@
+25 verbose lock gulp@ C:\Users\mraches\AppData\Roaming\npm-cache\72f4391e-gulp.lock
+26 verbose addNamed [ 'gulp-util', '' ]
+27 verbose addNamed [ null, '*' ]
+28 silly lockFile ecd61fb3-gulp-util gulp-util@
+29 verbose lock gulp-util@ C:\Users\mraches\AppData\Roaming\npm-cache\ecd61fb3-gulp-util.lock
+30 silly addNameRange { name: 'gulp', range: '*', hasData: false }
+31 verbose url raw gulp
+32 verbose url resolving [ 'https://registry.npmjs.org/', './gulp' ]
+33 verbose url resolved https://registry.npmjs.org/gulp
+34 info trying registry request attempt 1 at 3:14:50 PM
+35 http GET https://registry.npmjs.org/gulp
+36 silly addNameRange { name: 'gulp-util', range: '*', hasData: false }
+37 verbose url raw gulp-util
+38 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-util' ]
+39 verbose url resolved https://registry.npmjs.org/gulp-util
+40 info trying registry request attempt 1 at 3:14:50 PM
+41 http GET https://registry.npmjs.org/gulp-util
+42 info retry will retry, error on last attempt: Error: unable to get local issuer certificate
+43 info retry will retry, error on last attempt: Error: unable to get local issuer certificate
+44 info trying registry request attempt 2 at 3:15:00 PM
+45 http GET https://registry.npmjs.org/gulp
+46 info trying registry request attempt 2 at 3:15:00 PM
+47 http GET https://registry.npmjs.org/gulp-util
+48 info retry will retry, error on last attempt: Error: unable to get local issuer certificate
+49 info retry will retry, error on last attempt: Error: unable to get local issuer certificate
+50 info trying registry request attempt 3 at 3:16:00 PM
+51 http GET https://registry.npmjs.org/gulp
+52 info trying registry request attempt 3 at 3:16:00 PM
+53 http GET https://registry.npmjs.org/gulp-util
+54 silly lockFile 72f4391e-gulp gulp@
+55 silly lockFile 72f4391e-gulp gulp@
+56 error Error: unable to get local issuer certificate
+56 error     at Error (native)
+56 error     at TLSSocket.<anonymous> (_tls_wrap.js:1057:38)
+56 error     at emitNone (events.js:67:13)
+56 error     at TLSSocket.emit (events.js:166:7)
+56 error     at TLSSocket._finishInit (_tls_wrap.js:596:8)
+57 error If you need help, you may report this log at:
+57 error     <http://github.com/isaacs/npm/issues>
+57 error or email it to:
+57 error     <npm-@googlegroups.com>
+58 error System Windows_NT 10.0.14393
+59 error command "C:\\Users\\mraches\\Source\\Repos\\FDLL2\\FDLL\\packages\\Node.js.5.3.0\\node.exe" "C:\\Users\\mraches\\Source\\Repos\\FDLL2\\FDLL\\packages\\Npm.js.1.3.15.7\\tools\\node_modules\\npm\\bin\\npm-cli.js" "install" "gulp" "gulp-util" "--save-dev"
+60 error cwd C:\Users\mraches\Source\Repos\FDLL2\FDLL
+61 error node -v v5.3.0
+62 error npm -v 1.3.15
+63 error code UNABLE_TO_GET_ISSUER_CERT_LOCALLY
+64 verbose exit [ 1, true ]
