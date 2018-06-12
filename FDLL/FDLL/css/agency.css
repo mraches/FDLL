@@ -244,18 +244,15 @@ header.masthead .intro-text .intro-heading {
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
-  
 }
 
-    #portfolio .portfolio-item .portfolio-link {
-        position: relative;
-        display: block;
-        max-width: 400px;
-        margin: 0 auto;
-        cursor: pointer;
-        display: flex;
-        
-    }
+#portfolio .portfolio-item .portfolio-link {
+  position: relative;
+  display: block;
+  max-width: 400px;
+  margin: 0 auto;
+  cursor: pointer;
+}
 
  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   position: absolute;
@@ -292,14 +289,14 @@ header.masthead .intro-text .intro-heading {
   margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 25px;
-  text-align: center;
-  background-color: #fff;
-  
-}
+    #portfolio .portfolio-item .portfolio-caption {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 25px;
+        text-align: center;
+        background-color: #fff;
+        
+    }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
   margin: 0;

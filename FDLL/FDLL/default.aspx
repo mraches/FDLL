@@ -135,8 +135,8 @@
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Moncayo">
               <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                    
+                <div class="portfolio-hover-content"
+                     style="background-image: url('../img/obras/cover photos/2.png')">
                 </div> 
                <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Sombrillas de luz">
               </div>              
