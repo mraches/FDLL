@@ -130,16 +130,16 @@
         </div>
 
 <!--row 1, 6 artists per row-->
-        <div class="row" style="text-align:center;">       
+       <div class="row" style="text-align:center;">       
          <!--2-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Moncayo">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                    <i class="fa fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Sombrillas de luz">              
+                    
+                </div> 
+               <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Sombrillas de luz">
+              </div>              
             </a>
             <div class="portfolio-caption">
               <h4>Sombrillas de luz</h4>
