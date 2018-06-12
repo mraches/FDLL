@@ -179,10 +179,10 @@ img::-moz-selection {
 
 header.masthead {
     text-align: center;
-    padding-top:100px;
+    padding-top: 100px;
     color: white;
     outline-color: darkred;
-    background-image: url('img/fdl2018.png');
+    background-image: url('../img/fdl2018.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;

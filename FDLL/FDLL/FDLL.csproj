@@ -102,6 +102,21 @@
   <ItemGroup>
     <Content Include="css\agency.css" />
     <Content Include="css\agency.min.css" />
+    <Content Include="img\obras\cover photos\1.png" />
+    <Content Include="img\obras\cover photos\10.png" />
+    <Content Include="img\obras\cover photos\11.png" />
+    <Content Include="img\obras\cover photos\13.png" />
+    <Content Include="img\obras\cover photos\14.png" />
+    <Content Include="img\obras\cover photos\15.png" />
+    <Content Include="img\obras\cover photos\17.png" />
+    <Content Include="img\obras\cover photos\18.png" />
+    <Content Include="img\obras\cover photos\19.png" />
+    <Content Include="img\obras\cover photos\2.png" />
+    <Content Include="img\obras\cover photos\3.png" />
+    <Content Include="img\obras\cover photos\5.png" />
+    <Content Include="img\obras\cover photos\6.png" />
+    <Content Include="img\obras\cover photos\7.png" />
+    <Content Include="img\obras\cover photos\9.png" />
     <Content Include="js\agency.js" />
     <Content Include="js\agency.min.js" />
     <Content Include="js\contact_me.js" />

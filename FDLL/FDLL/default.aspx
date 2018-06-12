@@ -122,19 +122,21 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Obras</h2>
-            <h3 class="section-subheading text-muted"><a class="portfolio-link" data-toggle="modal" 
-                href="#mapadeobras">Mapa de obras</a></h3>
+            <h3 class="section-subheading text-muted">
+                <a class="portfolio-link" data-toggle="modal" 
+                href="img/obras/MAPA-GENERAL.png">Mapa de obras</a>
+            </h3>
           </div>
         </div>
 
 <!--row 1, 6 artists per row-->
-        <div class="row" style="text-align:center;">
-            <!--2-->
+        <div class="row" style="text-align:center;">       
+         <!--2-->
           <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#Moncayo">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <!--add hover content-->
+                    <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
               <img class="img-fluid" src="img/obras/sombrillas-peq.jpg" alt="Sombrillas de luz">              
