@@ -79,8 +79,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: darkred !important;
-  border-color: darkred !important;
+  background-color: #d51c57 !important;
+  border-color: #d51c57 !important;
   color: white;
 }
 
@@ -89,12 +89,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: darkred;
+  background: #d51c57;
   text-shadow: none;
 }
 
 ::selection {
-  background: darkred;
+  background: #d51c57;
   text-shadow: none;
 }
 

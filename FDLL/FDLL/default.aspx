@@ -67,11 +67,8 @@
     <!-- Header -->
     <header class="masthead" style="width:100%">
       <div class="container">
-        <!--<div class="intro-text">
-          <div class="intro-lead-in">Bienvenidos a Quito</div>
-          <div class="intro-heading text-uppercase">Fiesta de La Luz 2018</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#porque">Dime más</a>
-        </div>-->
+        <div class="intro-text">
+        </div>
       </div>
     </header>
 
@@ -81,8 +78,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Consejos</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.
-            </h3>
+            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
         <div class="row text-center">
