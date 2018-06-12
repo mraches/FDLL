@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: darkred;
+  color: #212529;
 }
 
 a:hover {
-  color: darkred;
+  color: #212529;
 }
 
 .text-primary {
-  color: darkred !important;
+  color: #212529 !important;
 }
 
 h1,
@@ -118,12 +118,12 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: darkred;
+  background-color: #f7ce28;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
-  color: darkred;
+  color: #f7ce28;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -181,7 +181,7 @@ header.masthead {
     text-align: center;
     padding-top: 100px;
     color: white;
-    outline-color: darkred;
+    outline-color: transparent;
     background-image: url('../img/fdl2018.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -641,7 +641,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: darkred;
+  border-color: #212529;
   box-shadow: none;
 }
 
@@ -711,5 +711,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: darkred;
+  background-color: #d51c57;
 }

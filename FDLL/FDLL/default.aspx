@@ -67,11 +67,11 @@
     <!-- Header -->
     <header class="masthead" style="width:100%">
       <div class="container">
-        <div class="intro-text">
-          <!--<div class="intro-lead-in">Bienvenidos a Quito</div>
+        <!--<div class="intro-text">
+          <div class="intro-lead-in">Bienvenidos a Quito</div>
           <div class="intro-heading text-uppercase">Fiesta de La Luz 2018</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#porque">Dime más</a>-->
-        </div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#porque">Dime más</a>
+        </div>-->
       </div>
     </header>
 
@@ -112,7 +112,7 @@
           </div>
         </div>
            <h3 class="section-subheading text-muted" style="text-align:center">
-               <a>Toda la informacion aqui.</a></h3>
+               <a>Toda la información aquí.</a></h3>
       </div>
     </section>
 
@@ -423,7 +423,7 @@
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">EL PROCESO</h2>
             <h3 class="section-subheading text-muted">Tres años de gestión permanente. 
-                <br />Mas informacion aqui.</h3>
+                <br />Más información aquí.</h3>
           </div>
         </div>
 
@@ -705,7 +705,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Contactenos</h2>
+            <h2 class="section-heading text-uppercase">Contáctenos</h2>
             <h3 class="section-subheading text-muted">Numero de telefono?</h3>
           </div>
         </div>
@@ -754,22 +754,17 @@
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="#">
-                    <img src="img/twittersocial.png" style="height:40px; width:40px" />
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                    <img src="img/fbsocial.png" style="height:40px; width:40px"/>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                    <img src="img/flickrsocial.png" style="height:40px; width:40px"/>
-                </a>
-              </li>
-            </ul>
+                <li class="list-inline-item">
+                  <a href="https://twitter.com/culturaquito">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.facebook.com/culturaquito/">
+                    <i class="fa fa-facebook"></i>
+                  </a>
+                </li>
+              </ul>
           </div>
           <div class="col-md-4">
             <ul class="list-inline quicklinks">
