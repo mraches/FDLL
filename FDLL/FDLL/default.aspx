@@ -32,15 +32,15 @@
   <body id="page-top">
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-        <!--<img src="img/quito-cultura_-logov3.png" id="img_quitocultura" alt="quito cultura logo" /> -->
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger"></a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+            <img src="img/Municipio_Quito_2014.svg.png" style="width:100px; height:auto" alt="Quito Alcaldia logo"/></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav text-uppercase ml-auto">
+          <ul class="navbar-nav text-uppercase ml-auto">           
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#consejos">Consejos</a>
             </li>

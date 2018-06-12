@@ -108,7 +108,7 @@ img::-moz-selection {
 
 #mainNav {
   background-color: #000000;
-  height:60px;
+  height:75px;
 }
 
 #mainNav .navbar-toggler {
@@ -172,6 +172,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
     padding: 0;
+    background-color:black;
 
     
   }
@@ -190,6 +191,7 @@ header.masthead {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    width:100%;
 }
 
     header.masthead .intro-text {
@@ -613,10 +615,10 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
-  background-image: url("../img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center;
+    background-color: #212529;
+    background-image: url('../img/Municipio_Quito_2014.svg.png');
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 section#contact .section-heading {
