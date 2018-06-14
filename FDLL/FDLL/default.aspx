@@ -64,10 +64,10 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead" style="width:100%">
+    <header class="masthead">
       <div class="container">
-        <div class="intro-text">
-            <video autoplay style="width:100%; padding-top:0px"
+        <div>
+            <video autoplay style="width:inherit; padding-top:25px"
                 src="img/VIDEO%20INAUGURACION%20FIESTA%20DE%20LA%20LUZ%202018%20Cambios%202%20-%20converted%20with%20Clipchamp.mp4" 
              controls="controls" />
         </div>

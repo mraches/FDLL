@@ -184,10 +184,9 @@ img::-moz-selection {
 
 header.masthead {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 25px;
     color: white;
     outline-color: transparent;
-    
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -199,7 +198,7 @@ header.masthead {
 }
 
     header.masthead .intro-text {
-        padding-top: 150px;
+        padding-top: 25px;
         padding-bottom: 100px;
         color: white;
     }
