@@ -33,8 +33,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">
-            <img src="img/Municipio_Quito_2014.svg.png" style="width:100px; height:auto" alt="Quito Alcaldia logo"/></a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Top</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>

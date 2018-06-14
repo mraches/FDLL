@@ -188,6 +188,7 @@
     <None Include=".bin\node.cmd" />
     <Content Include="mapageneral.pdf" />
     <Content Include="SCSS\agency.scss" />
+    <None Include=".bin\npm.cmd" />
     <None Include="Properties\PublishProfiles\fll2018 - Web Deploy.pubxml" />
     <None Include="scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="scripts\jquery-3.3.1.js" />

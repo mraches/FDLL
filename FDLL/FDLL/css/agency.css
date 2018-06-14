@@ -24,6 +24,10 @@ a:hover {
 .text-primary {
   color: #212529 !important;
 }
+.text-muted{
+    color:#3e3b3b!important;
+    font-weight:700;
+}
 
 h1,
 h2,
@@ -35,6 +39,9 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+h4{
+     padding-top: 15px;
+}
 section {
   padding: 100px 0;
   padding-top:100px;
@@ -128,7 +135,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #f7ce28;
+  color: #d51c57;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -141,7 +148,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #f7ce28;
+  color: #d51c57;
 }
 
 @media (min-width: 992px) {
