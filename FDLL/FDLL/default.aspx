@@ -67,9 +67,13 @@
     <header class="masthead" style="width:100%">
       <div class="container">
         <div class="intro-text">
+            <video autoplay style="width:100%; padding-top:0px"
+                src="img/VIDEO%20INAUGURACION%20FIESTA%20DE%20LA%20LUZ%202018%20Cambios%202%20-%20converted%20with%20Clipchamp.mp4" 
+             controls="controls" />
         </div>
       </div>
     </header>
+
 
     <!-- Consejos -->
     <section id="consejos" style="padding-top:15px; padding-bottom:15px">
