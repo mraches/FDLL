@@ -67,9 +67,9 @@
     <header class="masthead">
       <div class="container">
         <div>
-            <video autoplay style="width:inherit; padding-top:25px"
-                src="img/VIDEO%20INAUGURACION%20FIESTA%20DE%20LA%20LUZ%202018%20Cambios%202%20-%20converted%20with%20Clipchamp.mp4" 
-             controls="controls" />
+            <video autoplay style="position:fixed; min-width:100%; min-height:100%; padding-top:30px" >
+             <source src="img/FDLL2018vid.mp4" type="video/mp4" >
+            </video>
         </div>
       </div>
     </header>
