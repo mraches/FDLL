@@ -701,8 +701,38 @@
 
     <!-- Contacto -->
     <section id="contacto" style="padding-top:15px; padding-bottom:15px">
-      <div class="container">
-        <div class="row">
+        <div class="container">
+            <div>
+                <div class="wc-r">
+                    <div class="r-blk big std ">
+
+
+                        <div class="r-blk-ct">
+                            <p><a href="http://www.quitocultura.info/fdl2018/">
+                                <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/06/wg-fdl-2018-1-400x400.png" alt="" width="512" height="512"></a><a href="http://www.quitocultura.info/quito-tiene-teatro-2018"><img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/06/wg-QTT.png" alt="" width="512" height="220"></a> <a href="http://www.quitocultura.info/convocatorias-pasadas/">
+                                    <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/05/wg-convocatorias.png" alt="" width="512" height="220"></a> <a href="http://www.quitocultura.info/event/la-flauta-magica-de-los-andes/">
+                                        <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/06/wg-FLAUTA-MAGICA.png" alt="" width="512" height="220"></a><a href="http://www.quitocultura.info/event/?keyword=&amp;do_search=no&amp;term=&amp;event_location=556&amp;start_date=&amp;end_date=&amp;date_format=m-d-Y">
+                                            <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/05/wg-eventos-capitol.png" alt="" width="512" height="220"></a> <a href="http://www.quitocultura.info/event/?keyword=fundaci%C3%B3n+museos+de+la+ciudad&amp;do_search=no&amp;term=&amp;event_location=&amp;start_date=&amp;end_date=&amp;date_format=m-d-Y">
+                                                <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/05/wg-agenda-FMC.png" alt="" width="512" height="220"></a><a href="http://www.quitocultura.info/quitocultura-info/">
+                                                    <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/01/promociona.png" alt="" width="512" height="220"></a> <a href="http://www.quitocultura.info/blog">
+                                                        <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/01/blog.png" alt="" width="512" height="220"></a>
+                                <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/05/espacio.png" alt="" width="520" height="24"></p>
+                            <h2><span style="color: #d31c56;">GALERÍA</span></h2>
+                            <div><a href="https://www.flickr.com/photos/quitocultura/">
+                                <img class="wg" src="http://www.quitocultura.info/wp-content/uploads/sites/www.quitocultura.info/images/2018/01/WG-GALERIA.png" alt="" width="512" height="512"></a></div>
+                        </div>
+                    </div>
+                    <section class="widget icl_lang_sel_widget-2 widget_icl_lang_sel_widget">
+                        <div id="lang_sel_list" class="lang_sel_list_horizontal">
+                            <ul>
+                                <li class="icl-es"><a href="http://www.quitocultura.info/event/solo-a-traves-del-otro-puedo-saber-quien-soy/" class="lang_sel_sel">
+                                    <img class="iclflag" src="http://www.quitocultura.info/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español">&nbsp;</a></li>
+                            </ul>
+                        </div>
+                    </section>
+                </div>
+            </div>
+       <!-- <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contáctenos</h2>
             <h3 class="section-subheading text-muted">Numero de telefono?</h3>
@@ -740,7 +770,7 @@
               </div>
             </form>
           </div>
-        </div>
+        </div>-->
       </div>
     </section>
     </body>
