@@ -66,17 +66,15 @@
     <!-- Header -->
     <header class="masthead">
       <div class="container">
-        <div>
-            <video autoplay style="position:fixed; min-width:100%; min-height:100%; padding-top:30px" >
-             <source src="img/FDLL2018vid.mp4" type="video/mp4" >
-            </video>
-        </div>
+          <video autoplay loop id="headerVideo">
+              <source src="img/FDLL2018vid.mp4" type="video/mp4"/>
+          </video>        
       </div>
     </header>
 
 
     <!-- Consejos -->
-    <section id="consejos" style="padding-top:15px; padding-bottom:15px">
+    <section id="consejos" style="padding-top:75px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -116,7 +114,7 @@
     </section>
 
     <!-- Obras -->
-    <section class="bg-light" id="obras" style="padding-top:15px; padding-bottom:15px">
+    <section class="bg-light" id="obras" style="padding-top:75px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -416,7 +414,7 @@
     </section>
 
     <!--el proceso -->
-    <section id="proceso" style="padding-top:15px; padding-bottom:15px">
+    <section id="proceso" style="padding-top:75px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -565,7 +563,7 @@
     </section>
 
     <!-- Equipo -->
-    <section class="bg-light" id="equipo" style="padding-top:15px; padding-bottom:15px">
+    <section class="bg-light" id="equipo" style="padding-top:75px; padding-bottom:15px">
       <div class="container">
 
         <div class="row">
@@ -670,7 +668,7 @@
     </div>
     </section>
 
-    <!-- Clients -->
+    <!-- Clients 
     <section class="py-5">
       <div class="container">
         <div class="row">
@@ -697,10 +695,10 @@
         </div>
       </div>
     
-    </section>
+    </section>-->
 
     <!-- Contacto -->
-    <section id="contacto" style="padding-top:15px; padding-bottom:15px">
+    <section id="contacto" style="padding-top:75px; padding-bottom:15px">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
