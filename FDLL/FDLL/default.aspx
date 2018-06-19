@@ -33,7 +33,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Top</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Fiesta de La Luz</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -73,24 +73,23 @@
     </header>
 
     <!--Prensa-->
-    <section id="prensa" style="padding-top:75px; padding-bottom:15px">
-      <div class="row">
-          <div class="col-lg-12 text-center">
-             <h2 class="section-heading text-uppercase">Prensa</h2>
+    <section id="prensa" style="padding-top:0; padding-bottom:0">
+      <div class="container">
+       <div class="row" >
+              <div class="col-lg-4">
+                  <h4 class="service-heading text-center">Noticias</h4>
+                  <iframe src="http://www.quitocultura.info"></iframe>
+              </div>
+              <div class="col-lg-4">
+                  <h4 class="service-heading text-center">Noticias</h4>
+                  <iframe src="http://www.quitocultura.info"></iframe>
+              </div>
+              <div class="col-lg-4">
+                  <h4 class="service-heading text-center">Noticias</h4>
+                  <iframe src="http://www.quitocultura.info"></iframe>
+              </div>
           </div>
-       </div>
-       <div class="row" style="position:center">
-              <div class="col-sm-4 prensa-item">
-                  <iframe src="http://www.quitocultura.info"></iframe>
-              </div>
-              <div class="col-sm-4 prensa-item">
-                  <iframe src="http://www.quitocultura.info"></iframe>
-              </div>
-              <div class="col-sm-4 prensa-item">
-                  <iframe src="http://www.quitocultura.info"></iframe>
-              </div>
-          </div>
-      
+      </div>
     </section>
 
     <!-- Consejos -->
