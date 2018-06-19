@@ -72,6 +72,26 @@
       </div>
     </header>
 
+    <!--Prensa-->
+    <section id="prensa" style="padding-top:75px; padding-bottom:15px">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+             <h2 class="section-heading text-uppercase">Prensa</h2>
+          </div>
+       </div>
+       <div class="row">
+              <div class="col-sm-4 prensa-item">
+                  <iframe src="http://www.quitocultura.info"></iframe>
+              </div>
+              <div class="col-sm-4 prensa-item">
+                  <iframe src="http://www.quitocultura.info"></iframe>
+              </div>
+              <div class="col-sm-4 prensa-item">
+                  <iframe src="http://www.quitocultura.info"></iframe>
+              </div>
+          </div>
+      
+    </section>
 
     <!-- Consejos -->
     <section id="consejos" style="padding-top:75px; padding-bottom:15px">

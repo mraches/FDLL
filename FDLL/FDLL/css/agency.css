@@ -248,6 +248,12 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+.prensa-item {
+    border: 5px thin black;
+    margin: inherit;
+    display:block;
+}
+
 .service-heading {
   margin: 15px 0;
   text-transform: none;
