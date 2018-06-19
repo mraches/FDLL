@@ -251,7 +251,12 @@ header.masthead .intro-text .intro-heading {
 .prensa-item {
     border: 5px thin black;
     margin: inherit;
-    display:block;
+   position:center;
+}
+
+.prensa-row{
+   position:center;
+   margin:inherit;
 }
 
 .service-heading {

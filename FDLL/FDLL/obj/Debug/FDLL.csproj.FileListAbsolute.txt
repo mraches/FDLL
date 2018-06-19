@@ -100,3 +100,4 @@ C:\Users\mraches\Source\Repos\FDLL3\FDLL\FDLL\bin\Microsoft.CodeDom.Providers.Do
 C:\Users\mraches\Source\Repos\FDLL3\FDLL\FDLL\obj\Debug\FDLL.csprojResolveAssemblyReference.cache
 C:\Users\mraches\Source\Repos\FDLL3\FDLL\FDLL\obj\Debug\FDLL.dll
 C:\Users\mraches\Source\Repos\FDLL3\FDLL\FDLL\obj\Debug\FDLL.pdb
+C:\Users\mraches\Source\Repos\FDLL\FDLL\FDLL\bin\img\FDLL2018vid.mp4

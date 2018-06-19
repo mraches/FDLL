@@ -66,8 +66,8 @@
     <!-- Header -->
     <header class="masthead">
       <div class="fa-film">
-          <video autoplay loop id="headerVideo" style="padding-top:15px">
-              <source src="img/FDLL2018vid.mp4" type="video/mp4"/>
+          <video controls autoplay loop id="headerVideo" style="padding-top:15px" >
+              <source  src="img/FDLL2018vid.mp4" type="video/mp4"/>
           </video> 
       </div>
     </header>
@@ -79,7 +79,7 @@
              <h2 class="section-heading text-uppercase">Prensa</h2>
           </div>
        </div>
-       <div class="row">
+       <div class="row" style="position:center">
               <div class="col-sm-4 prensa-item">
                   <iframe src="http://www.quitocultura.info"></iframe>
               </div>

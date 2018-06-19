@@ -103,7 +103,9 @@
     <Content Include="css\agency.css" />
     <Content Include="css\agency.min.css" />
     <Content Include="gulpfile.js" />
-    <Content Include="img\FDLL2018vid.mp4" />
+    <EmbeddedResource Include="img\FDLL2018vid.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
     <Content Include="img\obras\cover photos\1.png" />
     <Content Include="img\obras\cover photos\10.png" />
     <Content Include="img\obras\cover photos\11.png" />
