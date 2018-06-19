@@ -65,10 +65,10 @@
 
     <!-- Header -->
     <header class="masthead">
-      <div class="container">
-          <video autoplay loop id="headerVideo">
+      <div class="fa-film">
+          <video autoplay loop id="headerVideo" style="padding-top:15px">
               <source src="img/FDLL2018vid.mp4" type="video/mp4"/>
-          </video>        
+          </video> 
       </div>
     </header>
 
