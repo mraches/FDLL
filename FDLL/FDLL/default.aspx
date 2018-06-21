@@ -249,7 +249,7 @@
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="Fuerzas en equilibrio">
+              <img class="img-fluid" src="img/obras/Fuerzas.jpg" alt="Fuerzas en equilibrio">
             </a>
             <div class="portfolio-caption">
               <h4>Fuerzas en equilibrio</h4>
@@ -850,7 +850,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Fuerzas en equilibrio</h2>
                   <p class="item-intro text-muted">Miguel Ángel Murgueytio</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/Fuerzas-big.jpg" 
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/Fuerzas.jpg"
                       alt="Fuerzas en equilibrio"/>
                   <p>Escultura de luz inteligente, construida a partir de estudios de geometría básica y 
                       diseño estructural del Arco de La Reina. El sonido ha sido diseñado por el productor de música

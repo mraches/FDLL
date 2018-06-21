@@ -121,6 +121,7 @@
     <Content Include="img\obras\cover photos\6.png" />
     <Content Include="img\obras\cover photos\7.png" />
     <Content Include="img\obras\cover photos\9.png" />
+    <Content Include="img\obras\Fuerzas.jpg" />
     <Content Include="js\agency.js" />
     <Content Include="js\agency.min.js" />
     <Content Include="js\contact_me.js" />
@@ -153,8 +154,6 @@
     <Content Include="img\obras\estados-peq.jpg" />
     <Content Include="img\obras\expresiones-big.jpg" />
     <Content Include="img\obras\expresiones-peq.jpg" />
-    <Content Include="img\obras\Fuerzas-big.jpg" />
-    <Content Include="img\obras\Fuerzas-peq.jpg" />
     <Content Include="img\obras\gota-big.jpg" />
     <Content Include="img\obras\gota-peq.jpg" />
     <Content Include="img\obras\herencia-big.jpg" />
