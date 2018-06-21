@@ -158,7 +158,7 @@
               </div>              
             </a>
             <div class="portfolio-caption">
-              <h4>Sombrillas de luz</h4>
+              <h4 style="padding-top:10px">Sombrillas de luz</h4>
               <p class="text-muted">Lenin Moncayo</p>
             </div>
           </div>
@@ -173,7 +173,7 @@
               <img class="img-fluid" src="img/obras/estados-peq.jpg"  alt="Estados del tiempo">             
             </a>
             <div class="portfolio-caption">
-              <h4>Estados del tiempo</h4>
+              <h4 style="padding-top:10px">Estados del tiempo</h4>
               <p class="text-muted">Gary Vera</p>
             </div>
           </div>
@@ -189,7 +189,7 @@
                 <img class="img-fluid" src="img/obras/expresiones-peq.jpg" alt="Expresiones">
             </a>
             <div class="portfolio-caption">
-              <h4>Expresiones</h4>
+              <h4 style="padding-top:10px">Expresiones</h4>
               <p class="text-muted">Yves Moreaux</p>
             </div>
           </div>
@@ -204,7 +204,7 @@
                 <img class="img-fluid" src="img/obras/nido-peq.jpg" alt="Nido de luz">              
             </a>
             <div class="portfolio-caption">
-              <h4>Nido de luz</h4>
+              <h4 style="padding-top:10px">Nido de luz</h4>
               <p class="text-muted">Erik Barray (Música de Nelson García)</p>
             </div>
           </div>
@@ -219,7 +219,7 @@
                 <img class="img-fluid" src="img/obras/brillo-sombras-peq.jpg" alt="El brillo de las sombras">             
             </a>
             <div class="portfolio-caption">
-              <h4>El brillo de las sombras</h4>
+              <h4 style="padding-top:10px">El brillo de las sombras</h4>
               <p class="text-muted">Daniel Knipper</p>
             </div>
           </div>
@@ -234,7 +234,7 @@
                 <img class="img-fluid" src="img/obras/herencia-peq.jpg" alt="Herencia">
             </a>
             <div class="portfolio-caption">
-              <h4>Herencia</h4>
+              <h4 style="padding-top:10px">Herencia</h4>
               <p class="text-muted">Laurent Langlois</p>
             </div>
           </div>
@@ -249,10 +249,10 @@
                   <!--add hover content-->
                 </div>
               </div>
-              <img class="img-fluid" src="img/obras/Fuerzas.jpg" alt="Fuerzas en equilibrio">
+              <img class="img-fluid" src="img/obras/Fuerzas-peq.jpg" alt="Fuerzas en equilibrio">
             </a>
             <div class="portfolio-caption">
-              <h4>Fuerzas en equilibrio</h4>
+              <h4 style="padding-top:10px">Fuerzas en equilibrio</h4>
               <p class="text-muted">Miguel Ángel Murgueytio</p>
             </div>
           </div>
@@ -267,7 +267,7 @@
                 <img class="img-fluid" src="img/obras/huellas-peq.jpg" alt="Las huellas del pasado">
             </a>
             <div class="portfolio-caption">
-              <h4>Las huellas del pasado</h4>
+              <h4 style="padding-top:10px">Las huellas del pasado</h4>
               <p class="text-muted">Édison Díaz y Alejandro Hallo</p>
             </div>
           </div>
@@ -282,7 +282,7 @@
               <img class="img-fluid" src="img/obras/lumineoles-peq.jpg" alt="Lumineoles">
             </a>
             <div class="portfolio-caption">
-              <h4>Lumineoles</h4>
+              <h4 style="padding-top:10px">Lumineoles</h4>
               <p class="text-muted">Christophe Martine</p>
             </div>
           </div>
@@ -297,7 +297,7 @@
               <img class="img-fluid" src="img/obras/psycodelia-peq.jpg" alt="Psycodelia andina">
             </a>
             <div class="portfolio-caption">
-              <h4>Psycodelia andina</h4>
+              <h4 style="padding-top:10px">Psycodelia andina</h4>
               <p class="text-muted">Andrés Aulestia</p>
             </div>
           </div>
@@ -312,7 +312,7 @@
                 <img class="img-fluid" src="img/obras/gota-peq.jpg" alt="La gota ke derramó el vaso">
             </a>
             <div class="portfolio-caption">
-              <h4>La gota ke derramó el vaso</h4>
+              <h4 style="padding-top:10px">La gota ke derramó el vaso</h4>
               <p class="text-muted">Miguel Varea y Dayuma Guayasamín</p>
             </div>
           </div>      
@@ -327,7 +327,7 @@
                 <img class="img-fluid" src="img/obras/Winaykay-peq.jpg" alt="Wiñaykay">
             </a>
             <div class="portfolio-caption">
-              <h4>Wiñaykay</h4>
+              <h4 style="padding-top:10px">Wiñaykay</h4>
               <p class="text-muted">Salvatore Barletta</p>
             </div>
           </div>
@@ -347,7 +347,7 @@
               <img class="img-fluid" src="img/obras/phantom-peq.jpg" alt="Phantom: Lo que no se ve">
             </a>
             <div class="portfolio-caption">
-              <h4>Phantom: Lo que no se ve</h4>
+              <h4 style="padding-top:10px">Phantom: Lo que no se ve</h4>
               <p class="text-muted">Aquiles Jarrín</p>
             </div>
           </div>
@@ -362,7 +362,7 @@
                 <img class="img-fluid" src="img/obras/manos-peq.jpg" alt="Manos de luz">
             </a>
             <div class="portfolio-caption">
-              <h4>Manos de luz</h4>
+              <h4 style="padding-top:10px">Manos de luz</h4>
               <p class="text-muted">Geovanny Verdozoto</p>
             </div>
           </div>
@@ -377,7 +377,7 @@
               <img class="img-fluid" src="img/obras/orquideas-peq.jpg" alt="Orquídeas salvajes">
             </a>
             <div class="portfolio-caption">
-              <h4>Orquídeas salvajes</h4>
+              <h4 style="padding-top:10px">Orquídeas salvajes</h4>
               <p class="text-muted">Colectivo B.A.B.E.L</p>
             </div>
           </div>
@@ -392,7 +392,7 @@
               <img class="img-fluid" src="img/obras/polillas-peque.jpg" alt="Polillas"/>
             </a>
             <div class="portfolio-caption">
-              <h4>Polillas</h4>
+              <h4 style="padding-top:10px">Polillas</h4>
               <p class="text-muted">IMP- Belén Mena</p>
             </div>
           </div>
@@ -408,7 +408,7 @@
               <img class="img-fluid" src="img/obras/ayni-peq.jpg" alt="Ayni de luz">              
             </a>
             <div class="portfolio-caption">
-              <h4>Ayni de luz</h4>
+              <h4 style="padding-top:10px">Ayni de luz</h4>
               <p class="text-muted">Felipe Jácome y Daniel Espinosa</p>
             </div>
           </div>
@@ -423,7 +423,7 @@
                 <img class="img-fluid" src="img/obras/cordillera-peq.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>La canción de la cordillera</h4>
+              <h4 style="padding-top:10px">La canción de la cordillera</h4>
               <p class="text-muted">Mesías Maiguashca y Carlos Poete</p>
             </div>
           </div>
@@ -850,7 +850,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Fuerzas en equilibrio</h2>
                   <p class="item-intro text-muted">Miguel Ángel Murgueytio</p>
-                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/Fuerzas.jpg"
+                  <img class="img-fluid d-block mx-auto" style="height:300px; width:500px" src="img/obras/Fuerzas-big.jpg"
                       alt="Fuerzas en equilibrio"/>
                   <p>Escultura de luz inteligente, construida a partir de estudios de geometría básica y 
                       diseño estructural del Arco de La Reina. El sonido ha sido diseñado por el productor de música
