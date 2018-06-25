@@ -129,7 +129,6 @@
     <Content Include="js\contact_me.min.js" />
     <Content Include="js\jqBootstrapValidation.js" />
     <Content Include="js\jqBootstrapValidation.min.js" />
-    <Content Include="mail\contact_me.php" />
     <Content Include="img\Consejos\consejos.png" />
     <Content Include="img\ElProceso\el-proceso-2016.jpg" />
     <Content Include="img\ElProceso\el-proceso-2017.jpg" />
@@ -183,6 +182,7 @@
     <Content Include="img\quito-cultura_-logov3.png" />
     <Content Include="img\Consejos\seguridad.png" />
     <Content Include="img\Contacto\twittersocial.png" />
+    <Content Include="mail\contact_me.php" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
