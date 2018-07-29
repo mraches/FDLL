@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #212529;
+  color: #d51c57;
 }
 
 .text-primary {
@@ -26,7 +26,8 @@ a:hover {
 }
 .text-muted{
     color:#3e3b3b!important;
-    font-weight:700;
+    font-weight:400;
+    margin-bottom:0;
 }
 
 h1,
@@ -60,9 +61,27 @@ section h3.section-subheading {
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+iframe{
+    width:100%;
+    height:auto;
+    padding:0;
+    margin:0;
+}
+
+#fdlvideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
+  }
+  .section-heading{
+      font-size:7vw;
   }
 }
 
@@ -111,8 +130,8 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #000000;
-  height:75px;
+  background-color:black;
+  
 }
 
 #mainNav .navbar-toggler {
@@ -122,7 +141,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #f7ce28;
+  background-color:#d51c57;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -157,6 +176,7 @@ img::-moz-selection {
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: black;
+    width:100%;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
@@ -166,7 +186,6 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
-    
   }
   #mainNav.navbar-shrink {
     padding-top: 0;
@@ -175,19 +194,11 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
-    padding: 0;
-    background-color:black;
-
-    
+    padding: 12px 0;
   }
 }
 
-#headerVideo{
-    position:center;
-    right:0;
-    bottom:0;
-    min-width:100%;
-}
+
 
 header.masthead {
     text-align: center;
@@ -202,6 +213,7 @@ header.masthead {
     -o-background-size: cover;
     background-size: cover;
     width:100%;
+    margin:0;
 }
 
     header.masthead .intro-text {
@@ -209,7 +221,7 @@ header.masthead {
         padding-bottom: 100px;
         color: white;
     }
-}
+
 
 header.masthead .intro-text .intro-lead-in {
   font-size: 22px;
@@ -254,6 +266,12 @@ iframe{
     height:200px;
 }
 
+/*Rachel*/
+
+.coverimg{
+    width:30px;
+    height:auto;
+}
 .service-heading {
   margin: 15px 0;
   text-transform: none;
@@ -311,6 +329,7 @@ iframe{
     #portfolio .portfolio-item .portfolio-caption {
         max-width: 400px;
         margin: 0 auto;
+        margin-bottom:0;
         padding: 25px;
         text-align: center;
         background-color: #fff;
@@ -322,11 +341,13 @@ iframe{
   text-transform: none;
   padding-top:15px;
   margin-top:15px;
+  margin-bottom:0;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
   font-size: 16px;
   font-style: italic;
+  font-weight:500;
   margin: 0;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -338,9 +359,34 @@ iframe{
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
- 
-    
+    width:100%;
   }
+}
+
+#CACevento{
+    width:400px;
+    height:auto;
+}
+.consejo-item{
+    list-style-type:circle;   
+    text-align:left;
+}
+
+.map-link{
+    color:#d51c57;
+}
+.portfolio-mapa
+{
+    width:100%;
+    height:auto;
+}
+
+.obra-numero{
+    color:#d51c57;
+    font-size:30px;
+    font-family:calibri;
+
+    
 }
 
 .portfolio-modal {
@@ -369,7 +415,8 @@ iframe{
 .portfolio-modal .modal-content p.item-intro {
   font-size: 16px;
   font-style: italic;
-  margin: 20px 0 30px;
+  margin: 20px 0 10px;
+  margin-bottom:0;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -447,8 +494,9 @@ iframe{
 .timeline > li {
   position: relative;
   min-height: 50px;
-  margin-bottom: 50px;
+  margin-bottom:0 !important;
 }
+
 
 .timeline > li:after, .timeline > li:before {
   display: table;
@@ -485,8 +533,22 @@ iframe{
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
+  margin-left: 0;
+  text-align: center;
+  color: white;
+  border: none;
+  border-radius: 0%;
+  background-color: transparent;
+}
+
+.timeline > li .timeline-image-inverted {
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  width: 75px;
+  height: 75px;
   margin-left: 0;
   text-align: center;
   color: white;
@@ -537,6 +599,45 @@ iframe{
 .timeline .timeline-body > ul,
 .timeline .timeline-body > p {
   margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .timeline:before {
+    left: 50%;
+  }
+  .timeline > li {
+    min-height: 100px;
+    margin-bottom: 15px;
+  }
+  .timeline > li .timeline-panel {
+    float: left;
+    width: 41%;
+    padding: 0 0px 0px 0px;
+    text-align: right;
+  }
+  .timeline > li .timeline-image {
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+  }
+    .timeline > li .timeline-image-inverted {
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+  }
+  
+  .timeline > li .timeline-image h4 {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 16px;
+  }
+  .timeline > li.timeline-inverted > .timeline-panel {
+    float: right;
+    padding: 0 0px 0px 0px;
+    text-align: left;
+  }
 }
 
 @media (min-width: 768px) {
@@ -728,7 +829,7 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: black;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
